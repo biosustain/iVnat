@@ -11,7 +11,7 @@ echo "Configure Travis git user."
 git config --global user.email "deploy@travis-ci.org"
 git config --global user.name "Travis CI Deployment Bot"
 
-if [[ "${TRAVIS_PULL_REQUEST}" != "false" || "${TRAVIS_REPO_SLUG}" != "ChristianLieven/ivnat-model" ]]; then
+if [[ "${TRAVIS_PULL_REQUEST}" != "false" || "${TRAVIS_REPO_SLUG}" != "ChristianLieven/iVnat" ]]; then
     echo "Untracked build."
     memote run --ignore-git
     echo "Skip deploy."
@@ -36,4 +36,4 @@ git add "${output}"
 git commit -m "Travis report #${TRAVIS_BUILD_NUMBER}"
 git push --quiet "https://${GITHUB_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git" "${deployment}" > /dev/null
 
-echo "Your new report will be visible at https://ChristianLieven.github.io/ivnat-model in a moment."
+echo "Your new report will be visible at https://ChristianLieven.github.io/iVnat in a moment."
