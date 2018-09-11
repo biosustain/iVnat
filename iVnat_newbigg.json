@@ -32440,7 +32440,7 @@
 }
 },
 {
-"id":"MNXR105037",
+"id":"UAGPT3",
 "name":"UDP_N_acetyl_D_glucosamine_undecaprenyl_diphospho_N_acetylmuramoyl_L_alanyl_gamma_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_alanine_4_beta_N_acetylglucosaminlytransferase_c0",
 "metabolites":{
 "uaagmda_c":1.0,
@@ -32914,7 +32914,7 @@
 }
 },
 {
-"id":"RXN3O-8214",
+"id":"FAS1_6_c",
 "name":"Acyl_carrier_protein_acetyltransferase_c0",
 "metabolites":{
 "ACP_c":1.0,
@@ -33024,7 +33024,7 @@
 }
 },
 {
-"id":"MNXR109713",
+"id":"HEPTT",
 "name":"R05611_c0",
 "metabolites":{
 "h_c":1.0,
@@ -33043,7 +33043,7 @@
 }
 },
 {
-"id":"MNXR97378",
+"id":"DHCIND",
 "name":"2E_3_cis_5_6_dihydroxycyclohexa_1_3_dien_1_ylprop_2_enoate_NAD_plus__oxidoreductase_c0",
 "metabolites":{
 "cenchddd_c":-1.0,
@@ -33084,7 +33084,7 @@
 }
 },
 {
-"id":"PDXJ-RXN",
+"id":"PDX5PS2",
 "name":"pyridoxine_5_phosphate_synthase_c0",
 "metabolites":{
 "1-AMINO-PROPAN-2-ONE-3-PHOSPHATE_c":-1.0,
@@ -33249,7 +33249,7 @@
 }
 },
 {
-"id":"RXN0-6987",
+"id":"AMPEP13",
 "name":"RXN0_6987c_c0",
 "metabolites":{
 "CE1787_c":1.0,
@@ -33287,7 +33287,7 @@
 }
 },
 {
-"id":"MNXR104241",
+"id":"SADT2",
 "name":"Sulfate_adenyltransferase_c0",
 "metabolites":{
 "aps_c":1.0,
@@ -33703,7 +33703,7 @@
 }
 },
 {
-"id":"MNXR106666",
+"id":"PFK",
 "name":"ATP_D_fructose_6_phosphate_1_phosphotransferase_c0",
 "metabolites":{
 "CPD-18719_c":-1.0,
@@ -33762,7 +33762,7 @@
 }
 },
 {
-"id":"MNXR135851",
+"id":"LPLIPAL1E161pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphoethanolamine__n_C16_1_periplasm_c0",
 "metabolites":{
 "MNXM147671_c":-1.0,
@@ -33990,7 +33990,7 @@
 }
 },
 {
-"id":"DHNPA2r",
+"id":"DHNPA",
 "name":"2_amino_4_hydroxy_6_D_erythro_1_2_3_trihydroxypropyl_7_8_dihydropteridine_glycolaldehyde_lyase_c0",
 "metabolites":{
 "6hmhpt_c":1.0,
@@ -34167,7 +34167,7 @@
 }
 },
 {
-"id":"RXN-17022",
+"id":"AGPAT140",
 "name":"1_tetradecanoyl_sn_glycerol_3_phosphate_O_acyltransferase_n_C14_0_c0",
 "metabolites":{
 "1tdecg3p_c":-1.0,
@@ -34306,7 +34306,7 @@
 }
 },
 {
-"id":"MNXR97178",
+"id":"DB4PS",
 "name":"D_ribulose_5_phosphate_formate_lyase_L_3_4_dihydroxybutan_2_one_4_phosphate_forming_c0",
 "metabolites":{
 "db4p_c":1.0,
@@ -34407,7 +34407,7 @@
 }
 },
 {
-"id":"MNXR99880",
+"id":"G3PD5",
 "name":"sn_glycerol_3_phosphate_ubiquinone_8_oxidoreductase_c0",
 "metabolites":{
 "dhap_c":1.0,
@@ -34452,7 +34452,7 @@
 }
 },
 {
-"id":"CDPGLC46DH",
+"id":"CDPGHL",
 "name":"CDPglucose_4_6_hydro_lyase_c0",
 "metabolites":{
 "cdp4dh6doglc_c":1.0,
@@ -34990,7 +34990,7 @@
 }
 },
 {
-"id":"MNXR135861",
+"id":"LPLIPAL2A120",
 "name":"Lysophospholipase_L2_2_acylglycerophosphotidate__n_C12_0_c0",
 "metabolites":{
 "2ddecg3p_c":-1.0,
@@ -35070,7 +35070,7 @@
 }
 },
 {
-"id":"MNXR135767",
+"id":"DAGK141",
 "name":"diacylglycerol_kinase_n_C14_1_c0",
 "metabolites":{
 "MNXM147350_c":-1.0,
@@ -35108,7 +35108,7 @@
 }
 },
 {
-"id":"CSND",
+"id":"FCY1",
 "name":"Cytosine_aminohydrolase_c0",
 "metabolites":{
 "csn_c":-1.0,
@@ -35129,7 +35129,7 @@
 }
 },
 {
-"id":"MNXR100602",
+"id":"HEPT1",
 "name":"RXN0_5118c_c0",
 "metabolites":{
 "adp_c":1.0,
@@ -35284,7 +35284,7 @@
 }
 },
 {
-"id":"MNXR135842",
+"id":"LPLIPAL1A120pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphotidate__n_C12_0_periplasm_c0",
 "metabolites":{
 "1ddecg3p_c":-1.0,
@@ -35377,7 +35377,7 @@
 }
 },
 {
-"id":"MNXR100934",
+"id":"KDOPS",
 "name":"phosphoenolpyruvate_D_arabinose_5_phosphate_C_1_carboxyvinyltransferase_phosphate_hydrolysing__2_carboxy_2_oxoethyl_forming_c0",
 "metabolites":{
 "ara5p_c":-1.0,
@@ -35525,7 +35525,7 @@
 }
 },
 {
-"id":"MNXR97156",
+"id":"DASYN141",
 "name":"CDP_diacylglycerol_synthetase_n_C14_1_c0",
 "metabolites":{
 "cdpdtdec7eg_c":1.0,
@@ -35544,7 +35544,7 @@
 }
 },
 {
-"id":"PYAM5PO",
+"id":"PDX3_1",
 "name":"Pyridoxamine_5_phosphate_oxygen_oxidoreductase_deaminating_c0",
 "metabolites":{
 "h2o2_c":1.0,
@@ -35586,7 +35586,7 @@
 }
 },
 {
-"id":"MNXR135865",
+"id":"LPLIPAL2A181",
 "name":"Lysophospholipase_L2_2_acylglycerophosphotidate__n_C18_1_c0",
 "metabolites":{
 "2odec11eg3p_c":-1.0,
@@ -35604,7 +35604,7 @@
 }
 },
 {
-"id":"MNXR95765",
+"id":"ALLK",
 "name":"ATP_D_allose_6_phosphotransferase_c0",
 "metabolites":{
 "adp_c":1.0,
@@ -35647,7 +35647,7 @@
 }
 },
 {
-"id":"RXN-9516",
+"id":"3OAS60",
 "name":"butyryl_acyl_carrier_protein_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0",
 "metabolites":{
 "3ohexACP_c":1.0,
@@ -35753,7 +35753,7 @@
 }
 },
 {
-"id":"RXN-14277",
+"id":"ACACT3r",
 "name":"Hexanoyl_CoA_acetyl_CoA_C_acyltransferase_c0",
 "metabolites":{
 "3oocoa_c":1.0,
@@ -35791,7 +35791,7 @@
 }
 },
 {
-"id":"MNXR134966",
+"id":"CD2abc1",
 "name":"Cadmium_translocating_P_type_ATPase_c0",
 "metabolites":{
 "MNXM2646_c":-1.0,
@@ -35904,7 +35904,7 @@
 }
 },
 {
-"id":"MNXR135986",
+"id":"PSSA140",
 "name":"Phosphatidylserine_syntase_n_C14_0_c0",
 "metabolites":{
 "MNXM92581_c":1.0,
@@ -35958,7 +35958,7 @@
 }
 },
 {
-"id":"MNXR135737",
+"id":"CBL1abc",
 "name":"ABC_5_RXNcp_c0",
 "metabolites":{
 "MNXM90163_c":1.0,
@@ -35978,7 +35978,7 @@
 }
 },
 {
-"id":"MNXR135988",
+"id":"PSSA161",
 "name":"Phosphatidylserine_syntase_n_C16_1_c0",
 "metabolites":{
 "MNXM92576_c":1.0,
@@ -36415,7 +36415,7 @@
 }
 },
 {
-"id":"RXN0-6977",
+"id":"MEAMP1(ala-gly)",
 "name":"RXN0_6977c_c0",
 "metabolites":{
 "L_alagly_c":-1.0,
@@ -36474,7 +36474,7 @@
 }
 },
 {
-"id":"MNXR101863",
+"id":"NADH10",
 "name":"NADH_dehydrogenase_menaquinone_8__0_protons_c0",
 "metabolites":{
 "h_c":-1.0,
@@ -36627,7 +36627,7 @@
 }
 },
 {
-"id":"RXN-9523",
+"id":"3OAS80",
 "name":"hexanoyl_acyl_carrier_protein_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0",
 "metabolites":{
 "3ooctACP_c":1.0,
@@ -36648,7 +36648,7 @@
 }
 },
 {
-"id":"MNXR135981",
+"id":"PSD140",
 "name":"Phosphatidylserine_decarboxylase_n_C14_0_c0",
 "metabolites":{
 "MNXM162700_c":1.0,
@@ -36665,7 +36665,7 @@
 }
 },
 {
-"id":"MNXR135880",
+"id":"LPLIPAL2E120",
 "name":"Lysophospholipase_L2_2_acylglycerophosphoethanolamine__n_C12_0_c0",
 "metabolites":{
 "DODECANOATE_c":1.0,
@@ -36996,7 +36996,7 @@
 }
 },
 {
-"id":"MNXR135898",
+"id":"NADH9",
 "name":"quinone_reductase_c0",
 "metabolites":{
 "2dmmq8_c":-1.0,
@@ -37144,7 +37144,7 @@
 }
 },
 {
-"id":"SUCCt2_3",
+"id":"SUCCt2_3pp",
 "name":"Succintate_transport_via_proton_symport_3_H_c0",
 "metabolites":{
 "h_c":3.0,
@@ -37220,7 +37220,7 @@
 }
 },
 {
-"id":"MNXR97421",
+"id":"DHORD5",
 "name":"dihydroorotic_acid_menaquinone_8_c0",
 "metabolites":{
 "dhor__S_c":-1.0,
@@ -37382,7 +37382,7 @@
 }
 },
 {
-"id":"MNXR103234",
+"id":"PSD180",
 "name":"Phosphatidylserine_decarboxylase_n_C18_0_c0",
 "metabolites":{
 "co2_c":1.0,
@@ -37468,7 +37468,7 @@
 }
 },
 {
-"id":"MNXR132731",
+"id":"PAPPT2",
 "name":"UDPMurAcoyl_L_Ala_D_gamma_Glu_L_Lys_D_Ala_D_Ala_undecaprenyl_phosphate_phospho_N_acetylmuramoyl_pentapeptide_transferase_c0",
 "metabolites":{
 "C3_c":-1.0,
@@ -37509,7 +37509,7 @@
 }
 },
 {
-"id":"DCMPDA",
+"id":"DCD1_1",
 "name":"dCMP_aminohydrolase_c0",
 "metabolites":{
 "dcmp_c":-1.0,
@@ -37593,7 +37593,7 @@
 }
 },
 {
-"id":"RXN-8447",
+"id":"SPONT1",
 "name":"R07406_c0",
 "metabolites":{
 "1-AMINO-PROPAN-2-ONE-3-PHOSPHATE_c":1.0,
@@ -37612,7 +37612,7 @@
 }
 },
 {
-"id":"RXN-9661",
+"id":"DDMAT5",
 "name":"Dodecanoyl_acyl_carrier_protein_malonyl_CoA_C_acyltransferasedecarboxylating__oxoacyl__and_enoyl_reducing_c0",
 "metabolites":{
 "Dodecanoyl-ACPs_c":1.0,
@@ -37656,7 +37656,7 @@
 }
 },
 {
-"id":"MNXR134526",
+"id":"CYRDAAT",
 "name":"ATP_cobIyrinic_acid_a_c_diamide_Cobeta_adenosyltransferase_c0",
 "metabolites":{
 "MNXM91147_c":-1.0,
@@ -37720,7 +37720,7 @@
 }
 },
 {
-"id":"MNXR99652",
+"id":"FRUK_r",
 "name":"ATP_D_fructose_1_phosphate_6_phosphotransferase_c0",
 "metabolites":{
 "adp_c":1.0,
@@ -37797,7 +37797,7 @@
 }
 },
 {
-"id":"MNXR135846",
+"id":"LPLIPAL1A181pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphotidate__n_C18_1_periplasm_c0",
 "metabolites":{
 "1odec11eg3p_c":-1.0,
@@ -37934,7 +37934,7 @@
 }
 },
 {
-"id":"MNXR99602",
+"id":"FLVRx",
 "name":"reduced_riboflavin_NAD_plus__oxidoreductase_c0",
 "metabolites":{
 "h_c":-2.0,
@@ -37954,7 +37954,7 @@
 }
 },
 {
-"id":"MNXR135853",
+"id":"LPLIPAL1E181pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphoethanolamine__n_C18_1_periplasm_c0",
 "metabolites":{
 "MNXM65309_c":1.0,
@@ -38251,7 +38251,7 @@
 }
 },
 {
-"id":"MNXR106670",
+"id":"FBP",
 "name":"D_Fructose_1_6_bisphosphate_1_phosphohydrolase_c0",
 "metabolites":{
 "CPD-18719_c":1.0,
@@ -38269,7 +38269,7 @@
 }
 },
 {
-"id":"1.1.1.262-RXN",
+"id":"THPDH",
 "name":"NAD_dependent_threonine_4_phosphate_dehydrogenase_c0",
 "metabolites":{
 "2-AMINO-3-OXO-4-PHOSPHONOOXYBUTYRATE_c":1.0,
@@ -38289,7 +38289,7 @@
 }
 },
 {
-"id":"AIRCARBOXY-RXN",
+"id":"ADE2",
 "name":"1_5_phospho_D_ribosyl_5_amino_4_imidazolecarboxylate_carboxy_lyase_c0",
 "metabolites":{
 "5-PHOSPHORIBOSYL-5-AMINOIMIDAZOLE_c":1.0,
@@ -38600,7 +38600,7 @@
 }
 },
 {
-"id":"MNXR137142",
+"id":"MEAMP1(gly-pro-L)",
 "name":"methionyl_aminopeptidase_c0",
 "metabolites":{
 "gly_c":1.0,
@@ -38659,7 +38659,7 @@
 }
 },
 {
-"id":"MNXR100113",
+"id":"GGGABADr",
 "name":"R07418_c0",
 "metabolites":{
 "gg4abut_c":1.0,
@@ -38817,7 +38817,7 @@
 }
 },
 {
-"id":"MNXR101186",
+"id":"LPLIPAL2E160",
 "name":"Lysophospholipase_L2_2_acylglycerophosphoethanolamine__n_C16_0_c0",
 "metabolites":{
 "2agpe160_c":-1.0,
@@ -38954,7 +38954,7 @@
 }
 },
 {
-"id":"MNXR135724",
+"id":"AGPAT120",
 "name":"1_tetradecanoyl_sn_glycerol_3_phosphate_O_acyltransferase_n_C12_0_c0",
 "metabolites":{
 "1ddecg3p_c":-1.0,
@@ -39078,7 +39078,7 @@
 }
 },
 {
-"id":"MNXR135858",
+"id":"LPLIPAL1G161pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphoglycerol__n_C16_1_periplasm_c0",
 "metabolites":{
 "MNXM147674_c":-1.0,
@@ -39096,7 +39096,7 @@
 }
 },
 {
-"id":"MNXR135885",
+"id":"LPLIPAL2G120",
 "name":"Lysophospholipase_L2_2_acylglycerophosphoglycerol__n_C12_0_c0",
 "metabolites":{
 "DODECANOATE_c":1.0,
@@ -39137,7 +39137,7 @@
 }
 },
 {
-"id":"ARABISOM-RXN",
+"id":"ARAI",
 "name":"L_Arabinose_aldose_ketose_isomerase_c0",
 "metabolites":{
 "L-arabinopyranose_c":-1.0,
@@ -39217,7 +39217,7 @@
 }
 },
 {
-"id":"MNXR134357",
+"id":"G6PI2",
 "name":"beta_D_Glucose_6_phosphate_ketol_isomerase_c0",
 "metabolites":{
 "CPD-18719_c":1.0,
@@ -39252,7 +39252,7 @@
 }
 },
 {
-"id":"MNXR101273",
+"id":"L_LACD2",
 "name":"lactate_oxidation_c0",
 "metabolites":{
 "lac__L_c":-1.0,
@@ -39384,7 +39384,7 @@
 }
 },
 {
-"id":"MNXR101144",
+"id":"LPLIPAL1A160pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphotidate__n_C16_0_periplasm_c0",
 "metabolites":{
 "1hdecg3p_c":-1.0,
@@ -39550,7 +39550,7 @@
 }
 },
 {
-"id":"rxn03023",
+"id":"D5KGK",
 "name":"ATP_5_dehydro_2_deoxy_D_gluconate_6_phosphotransferase_c0",
 "metabolites":{
 "MNXM91569_c":1.0,
@@ -39568,7 +39568,7 @@
 }
 },
 {
-"id":"PALDH",
+"id":"PALDP",
 "name":"2_Phosphonoacetaldehyde_phosphonohydrolase_c0",
 "metabolites":{
 "Pald_c":-1.0,
@@ -39609,7 +39609,7 @@
 }
 },
 {
-"id":"MNXR135829",
+"id":"G3PAT180",
 "name":"glycerol_3_phosphate_acyltransferase_C18_0_c0",
 "metabolites":{
 "1odecg3p_c":1.0,
@@ -39835,7 +39835,7 @@
 }
 },
 {
-"id":"MNXR102592",
+"id":"PGSA160",
 "name":"Phosphatidylglycerol_synthase_n_C16_0_c0",
 "metabolites":{
 "cdpdhdecg_c":-1.0,
@@ -39975,7 +39975,7 @@
 }
 },
 {
-"id":"RXN-9531",
+"id":"3OAS120",
 "name":"Decanoyl_acyl_carrier_protein_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0",
 "metabolites":{
 "3oddecACP_c":1.0,
@@ -40072,7 +40072,7 @@
 }
 },
 {
-"id":"METHYLGLUTACONYL-COA-HYDRATASE-RXN",
+"id":"MGCH",
 "name":"S_3_Hydroxy_3_methylglutaryl_CoA_hydro_lyase_trans_3_methylglutaconyl_CoA_forming_c0",
 "metabolites":{
 "3-HYDROXY-3-METHYL-GLUTARYL-COA_c":-1.0,
@@ -40114,7 +40114,7 @@
 }
 },
 {
-"id":"RXN3O-9780",
+"id":"FAS1_7_c",
 "name":"Acyl_carrier_protein_acetyltransferase_c0",
 "metabolites":{
 "ACP_c":1.0,
@@ -40172,7 +40172,7 @@
 }
 },
 {
-"id":"MNXR135771",
+"id":"DAGK181",
 "name":"diacylglycerol_kinase_n_C18_1_c0",
 "metabolites":{
 "MNXM146747_c":-1.0,
@@ -40189,7 +40189,7 @@
 }
 },
 {
-"id":"MNXR135768",
+"id":"DAGK160",
 "name":"diacylglycerol_kinase_n_C16_0_c0",
 "metabolites":{
 "MNXM162790_c":-1.0,
@@ -40433,7 +40433,7 @@
 }
 },
 {
-"id":"MNXR135940",
+"id":"PGSA181",
 "name":"Phosphatidylglycerol_synthase_n_C18_1_c0",
 "metabolites":{
 "MNXM91688_c":1.0,
@@ -40493,7 +40493,7 @@
 }
 },
 {
-"id":"MNXR134296",
+"id":"U56",
 "name":"R01938_c0",
 "metabolites":{
 "2oxoadp_c":-1.0,
@@ -40513,7 +40513,7 @@
 }
 },
 {
-"id":"MNXR103130",
+"id":"PPPGO3",
 "name":"protoporphyrinogen_oxidase_anaerobic_c0",
 "metabolites":{
 "fum_c":-3.0,
@@ -40531,7 +40531,7 @@
 }
 },
 {
-"id":"MNXR101167",
+"id":"LPLIPAL2A180",
 "name":"Lysophospholipase_L2_2_acylglycerophosphotidate__n_C18_0_c0",
 "metabolites":{
 "2odecg3p_c":-1.0,
@@ -40568,7 +40568,7 @@
 }
 },
 {
-"id":"MNXR101764",
+"id":"CATB",
 "name":"2_5_Dihydro_5_oxofuran_2_acetate_lyase_decyclizing_c0",
 "metabolites":{
 "ccmuac_c":1.0,
@@ -40639,7 +40639,7 @@
 }
 },
 {
-"id":"RXN-9535",
+"id":"3OAS140",
 "name":"dodecanoyl_acyl_carrier_protein_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0",
 "metabolites":{
 "3omrsACP_c":1.0,
@@ -40960,7 +40960,7 @@
 }
 },
 {
-"id":"MNXR96722",
+"id":"CINNDO",
 "name":"trans_cinnamate_NADH_oxygen_oxidoreductase_2_3_hydroxylating_c0",
 "metabolites":{
 "cenchddd_c":1.0,
@@ -41073,7 +41073,7 @@
 }
 },
 {
-"id":"MNXR105027",
+"id":"UAG4E",
 "name":"UDP_N_acetyl_D_glucosamine_4_epimerase_c0",
 "metabolites":{
 "uacgam_c":-1.0,
@@ -41135,7 +41135,7 @@
 }
 },
 {
-"id":"MNXR135884",
+"id":"LPLIPAL2E181",
 "name":"Lysophospholipase_L2_2_acylglycerophosphoethanolamine__n_C18_1_c0",
 "metabolites":{
 "MNXM146496_c":-1.0,
@@ -41171,7 +41171,7 @@
 }
 },
 {
-"id":"MNXR100885",
+"id":"CYTDK3",
 "name":"ITP_cytidine_5_phosphotransferase_c0",
 "metabolites":{
 "cmp_c":1.0,
@@ -41704,7 +41704,7 @@
 }
 },
 {
-"id":"RXN0-6983",
+"id":"MEAMP1(gly-gln)",
 "name":"RXN0_6983c_c0",
 "metabolites":{
 "gln__L_c":1.0,
@@ -41995,7 +41995,7 @@
 }
 },
 {
-"id":"MNXR135881",
+"id":"LPLIPAL2E140",
 "name":"Lysophospholipase_L2_2_acylglycerophosphoethanolamine__n_C14_0_c0",
 "metabolites":{
 "CPD-7836_c":1.0,
@@ -42089,7 +42089,7 @@
 }
 },
 {
-"id":"HYDROXYMETHYLGLUTARYL-COA-SYNTHASE-RXN",
+"id":"HMGCOAS",
 "name":"acetyl_CoA_acetoacetyl_CoA_C_acetyltransferase_thioester_hydrolysing__carboxymethyl_forming_c0",
 "metabolites":{
 "3-HYDROXY-3-METHYL-GLUTARYL-COA_c":1.0,
@@ -42192,7 +42192,7 @@
 }
 },
 {
-"id":"MNXR107174",
+"id":"PHE4MO",
 "name":"L_Phenylalanine_tetrahydrobiopterin_oxygen_oxidoreductase_4_hydroxylating_c0",
 "metabolites":{
 "CE2705_c":1.0,
@@ -42212,7 +42212,7 @@
 }
 },
 {
-"id":"MNXR96238",
+"id":"BETALDHy",
 "name":"p_Cumic_alcohol_NADP_plus__oxidoreductase_c0",
 "metabolites":{
 "betald_c":-1.0,
@@ -42313,7 +42313,7 @@
 }
 },
 {
-"id":"MNXR106675",
+"id":"GF6PTA",
 "name":"L_glutamine_D_fructose_6_phosphate_isomerase_deaminating_c0",
 "metabolites":{
 "CPD-18719_c":-1.0,
@@ -42486,7 +42486,7 @@
 }
 },
 {
-"id":"MNXR137144",
+"id":"MEAMP1(ala-thr)",
 "name":"methionyl_aminopeptidase_c0",
 "metabolites":{
 "ala_L_Thr__L_c":-1.0,
@@ -42562,7 +42562,7 @@
 }
 },
 {
-"id":"TAL",
+"id":"THRD_L",
 "name":"L_threonine_ammonia_lyase_2_oxobutanoate_forming_c0",
 "metabolites":{
 "2obut_c":1.0,
@@ -42606,7 +42606,7 @@
 }
 },
 {
-"id":"MNXR101188",
+"id":"LPLIPAL2E180",
 "name":"Lysophospholipase_L2_2_acylglycerophosphoethanolamine__n_C18_0_c0",
 "metabolites":{
 "2agpe180_c":-1.0,
@@ -42954,7 +42954,7 @@
 }
 },
 {
-"id":"MNXR109252",
+"id":"DEMAT4",
 "name":"Decanoyl_acyl_carrier_protein_malonyl_CoA_C_acyltransferasedecarboxylating__oxoacyl__and_enoyl_reducing_c0",
 "metabolites":{
 "Decanoyl-ACPs_c":1.0,
@@ -43180,7 +43180,7 @@
 }
 },
 {
-"id":"MNXR101146",
+"id":"LPLIPAL1A180pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphotidate__n_C18_0_periplasm_c0",
 "metabolites":{
 "1odecg3p_c":-1.0,
@@ -43199,7 +43199,7 @@
 }
 },
 {
-"id":"MNXR104039",
+"id":"RMK",
 "name":"ATP_L_rhamnulose_1_phosphotransferase_c0",
 "metabolites":{
 "adp_c":1.0,
@@ -43268,7 +43268,7 @@
 }
 },
 {
-"id":"MNXR103096",
+"id":"PPC",
 "name":"phosphate_oxaloacetate_carboxy_lyase_adding_phosphatephosphoenolpyruvate_forming_c0",
 "metabolites":{
 "co2_c":1.0,
@@ -43289,7 +43289,7 @@
 }
 },
 {
-"id":"MNXR109849",
+"id":"PFK(adp)",
 "name":"ADP_D_fructose_6_phosphate_1_phosphotransferase_c0",
 "metabolites":{
 "CPD-18719_c":-1.0,
@@ -43567,7 +43567,7 @@
 }
 },
 {
-"id":"MNXR135726",
+"id":"AGPAT160",
 "name":"1_hexadecanoyl_sn_glycerol_3_phosphate_O_acyltransferase_n_C16_0_c0",
 "metabolites":{
 "1hdecg3p_c":-1.0,
@@ -43585,7 +43585,7 @@
 }
 },
 {
-"id":"MNXR97160",
+"id":"DASYN180",
 "name":"CDP_diacylglycerol_synthetase_n_C18_0_c0",
 "metabolites":{
 "cdpdodecg_c":1.0,
@@ -43662,7 +43662,7 @@
 }
 },
 {
-"id":"MNXR136191",
+"id":"NADH8",
 "name":"NADH_dehydrogenase_demethylmenaquinone_8__28_protons_c0",
 "metabolites":{
 "2dmmq8_c":-1.0,
@@ -43758,7 +43758,7 @@
 }
 },
 {
-"id":"MNXR103271",
+"id":"PSSA180",
 "name":"Phosphatidylserine_syntase_n_C18_0_c0",
 "metabolites":{
 "cdpdodecg_c":-1.0,
@@ -43814,7 +43814,7 @@
 }
 },
 {
-"id":"MNXR134334",
+"id":"BTDD-RR",
 "name":"R_R_Butane_2_3_diol_NAD_plus__oxidoreductase_c0",
 "metabolites":{
 "ACETOIN_c":1.0,
@@ -43877,7 +43877,7 @@
 }
 },
 {
-"id":"1.1.1.127-RXN",
+"id":"DGLCND",
 "name":"2_Dehydro_3_deoxy_D_gluconate_NAD_plus__5_oxidoreductase_c0",
 "metabolites":{
 "2ddglcn_c":-1.0,
@@ -44247,7 +44247,7 @@
 }
 },
 {
-"id":"MNXR134595",
+"id":"COPRECI",
 "name":"R05814_c0",
 "metabolites":{
 "MNXM90961_c":1.0,
@@ -44343,7 +44343,7 @@
 }
 },
 {
-"id":"MNXR135832",
+"id":"GLCS1",
 "name":"glycogen_synthase_ADPGlc_c0",
 "metabolites":{
 "MNXM6281_c":-1.0,
@@ -44380,7 +44380,7 @@
 }
 },
 {
-"id":"MNXR135859",
+"id":"LPLIPAL1G180pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphoglycerol__n_C18_0_periplasm_c0",
 "metabolites":{
 "MNXM147676_c":-1.0,
@@ -44556,7 +44556,7 @@
 }
 },
 {
-"id":"MNXR135844",
+"id":"LPLIPAL1A141pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphotidate__n_C14_1_periplasm_c0",
 "metabolites":{
 "1tdec7eg3p_c":-1.0,
@@ -44656,7 +44656,7 @@
 }
 },
 {
-"id":"2.5.1.39-RXN",
+"id":"BET2",
 "name":"solanesyl_diphosphate_4_hydroxybenzoate_nonaprenyltransferase_c0",
 "metabolites":{
 "4hbz_c":-1.0,
@@ -44699,7 +44699,7 @@
 }
 },
 {
-"id":"MNXR97154",
+"id":"DASYN120",
 "name":"CDP_diacylglycerol_synthetase_n_C12_0_c0",
 "metabolites":{
 "cdpdddecg_c":1.0,
@@ -44718,7 +44718,7 @@
 }
 },
 {
-"id":"MNXR135864",
+"id":"LPLIPAL2A161",
 "name":"Lysophospholipase_L2_2_acylglycerophosphotidate__n_C16_1_c0",
 "metabolites":{
 "2hdec9eg3p_c":-1.0,
@@ -44755,7 +44755,7 @@
 }
 },
 {
-"id":"MNXR134209",
+"id":"SOD",
 "name":"superoxide_superoxide_oxidoreductase_c0",
 "metabolites":{
 "MNXM162331_c":-2.0,
@@ -44927,7 +44927,7 @@
 }
 },
 {
-"id":"MNXR107081",
+"id":"GLK1_3",
 "name":"ATP_beta_D_glucose_6_phosphotransferase_c0",
 "metabolites":{
 "GLC_c":-1.0,
@@ -44990,7 +44990,7 @@
 }
 },
 {
-"id":"MNXR135825",
+"id":"G3PAT120",
 "name":"glycerol_3_phosphate_acyltransferase_C12_0_c0",
 "metabolites":{
 "1ddecg3p_c":1.0,
@@ -45084,7 +45084,7 @@
 }
 },
 {
-"id":"MNXR101440",
+"id":"MDH2",
 "name":"FAD_dependent_malate_dehydrogenase_c0",
 "metabolites":{
 "mal__L_c":-1.0,
@@ -45248,7 +45248,7 @@
 }
 },
 {
-"id":"VPAMTr",
+"id":"VPAMT",
 "name":"L_Valine_pyruvate_aminotransferase_c0",
 "metabolites":{
 "3mob_c":1.0,
@@ -45332,7 +45332,7 @@
 }
 },
 {
-"id":"MNXR110533",
+"id":"PPPNDO",
 "name":"3_phenylpropanoate_NADH_oxygen_oxidoreductase_2_3_hydroxylating_c0",
 "metabolites":{
 "MNXM163340_c":1.0,
@@ -45375,7 +45375,7 @@
 }
 },
 {
-"id":"RXN0-6976",
+"id":"MEAMP1(ala-gln)",
 "name":"RXN0_6976c_c0",
 "metabolites":{
 "ala_L_gln__L_c":-1.0,
@@ -45413,7 +45413,7 @@
 }
 },
 {
-"id":"R11-RXN",
+"id":"BUTCT",
 "name":"Butanoyl_CoA_acetate_CoA_transferase_c0",
 "metabolites":{
 "BUTYRIC_ACID_c":1.0,
@@ -45580,7 +45580,7 @@
 }
 },
 {
-"id":"RXN0-6979",
+"id":"MEAMP1(ala-leu)",
 "name":"RXN0_6979c_c0",
 "metabolites":{
 "CE5866_c":-1.0,
@@ -45783,7 +45783,7 @@
 }
 },
 {
-"id":"MNXR99459",
+"id":"FBA",
 "name":"D_fructose_1_6_bisphosphate_D_glyceraldehyde_3_phosphate_lyase_glycerone_phosphate_forming_c0",
 "metabolites":{
 "dhap_c":1.0,
@@ -45880,7 +45880,7 @@
 }
 },
 {
-"id":"MNXR135980",
+"id":"PSD120",
 "name":"Phosphatidylserine_decarboxylase_n_C12_0_c0",
 "metabolites":{
 "MNXM162980_c":1.0,
@@ -45974,7 +45974,7 @@
 }
 },
 {
-"id":"MNXR135837",
+"id":"HEMEOSm",
 "name":"protoheme_IX_farnesyltransferase_c0",
 "metabolites":{
 "MNXM78362_c":-1.0,
@@ -46192,7 +46192,7 @@
 }
 },
 {
-"id":"MNXR137140",
+"id":"AMPEP10",
 "name":"methionyl_aminopeptidase_c0",
 "metabolites":{
 "glu__L_c":1.0,
@@ -46229,7 +46229,7 @@
 }
 },
 {
-"id":"MNXR100469",
+"id":"GUI2",
 "name":"D_Galacturonate_aldose_ketose_isomerase_c0",
 "metabolites":{
 "galur_c":-1.0,
@@ -46367,7 +46367,7 @@
 }
 },
 {
-"id":"MNXR96105",
+"id":"ASPt2_3pp",
 "name":"L_asparate_transport_via_proton_symport_3_H_c0",
 "metabolites":{
 "CE1787_c":1.0,
@@ -46708,7 +46708,7 @@
 }
 },
 {
-"id":"MNXR108883",
+"id":"BTMAT1",
 "name":"Butyryl_acyl_carrier_protein_malonyl_CoA_C_acyltransferasedecarboxylating__oxoacyl__and_enoyl_reducing_c0",
 "metabolites":{
 "Butanoyl-ACPs_c":1.0,
@@ -46812,7 +46812,7 @@
 }
 },
 {
-"id":"MNXR135848",
+"id":"LPLIPAL1E140pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphoethanolamine__n_C14_0_periplasm_c0",
 "metabolites":{
 "CPD-7836_c":1.0,
@@ -46830,7 +46830,7 @@
 }
 },
 {
-"id":"MNXR95297",
+"id":"ACNPLYSr",
 "name":"phosphoenolpyruvate_N_acetyl_D_mannosamine_C_1_carboxyvinyltransferase_phosphate_hydrolysing__2_carboxy_2_oxoethyl_forming_c0",
 "metabolites":{
 "acmana_c":-1.0,
@@ -46980,7 +46980,7 @@
 }
 },
 {
-"id":"MNXR99637",
+"id":"FRD2",
 "name":"fumarate_reductase_c0",
 "metabolites":{
 "fum_c":-1.0,
@@ -47040,7 +47040,7 @@
 }
 },
 {
-"id":"UDP-NACMURALGLDAPLIG-RXN",
+"id":"UAAGDS",
 "name":"UDP_N_acetylmuramoyl_L_alanyl_D_glutamate_L_meso_2_6_diaminoheptanedioate_gamma_ligase_ADP_forming_c0",
 "metabolites":{
 "26dap__M_c":-1.0,
@@ -47109,7 +47109,7 @@
 }
 },
 {
-"id":"MNXR135823",
+"id":"FRD3",
 "name":"fumarate_reductase_c0",
 "metabolites":{
 "2dmmq8_c":1.0,
@@ -47172,7 +47172,7 @@
 }
 },
 {
-"id":"MNXR135985",
+"id":"PSSA120",
 "name":"Phosphatidylserine_syntase_n_C12_0_c0",
 "metabolites":{
 "MNXM92575_c":1.0,
@@ -47275,7 +47275,7 @@
 }
 },
 {
-"id":"MNXR135983",
+"id":"PSD161",
 "name":"Phosphatidylserine_decarboxylase_n_C16_1_c0",
 "metabolites":{
 "MNXM1945_c":1.0,
@@ -47450,7 +47450,7 @@
 }
 },
 {
-"id":"MNXR97524",
+"id":"DMPPS",
 "name":"R08210_c0",
 "metabolites":{
 "dmpp_c":1.0,
@@ -47556,7 +47556,7 @@
 }
 },
 {
-"id":"MNXR135890",
+"id":"LPLIPAL2G180",
 "name":"Lysophospholipase_L2_2_acylglycerophosphoglycerol__n_C18_0_c0",
 "metabolites":{
 "MNXM146501_c":-1.0,
@@ -47618,7 +47618,7 @@
 }
 },
 {
-"id":"MNXR106804",
+"id":"RBKr",
 "name":"ATP_D_ribose_5_phosphotransferase_c0",
 "metabolites":{
 "CPD-15317_c":1.0,
@@ -47637,7 +47637,7 @@
 }
 },
 {
-"id":"MNXR135935",
+"id":"PGPP141pp",
 "name":"phosphatidylglycerol_phosphate_phosphatase_periplasm__n_C14_1_c0",
 "metabolites":{
 "MNXM145918_c":1.0,
@@ -47691,7 +47691,7 @@
 }
 },
 {
-"id":"MNXR135856",
+"id":"LPLIPAL1G141pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphoglycerol__n_C14_1_periplasm_c0",
 "metabolites":{
 "MNXM147677_c":-1.0,
@@ -47709,7 +47709,7 @@
 }
 },
 {
-"id":"MNXR106667",
+"id":"M1PD",
 "name":"D_Mannitol_1_phosphate_NAD_plus__5_oxidoreductase_c0",
 "metabolites":{
 "CPD-18719_c":1.0,
@@ -47903,7 +47903,7 @@
 }
 },
 {
-"id":"MNXR135725",
+"id":"AGPAT141",
 "name":"1_tetradec_7_enoyl_sn_glycerol_3_phosphate_O_acyltransferase_n_C14_1_c0",
 "metabolites":{
 "1tdec7eg3p_c":-1.0,
@@ -47921,7 +47921,7 @@
 }
 },
 {
-"id":"RXN-14150",
+"id":"R08503",
 "name":"5_Deoxy_glucuranate_isomerase_c0",
 "metabolites":{
 "CPD-15127_c":-1.0,
@@ -47997,7 +47997,7 @@
 }
 },
 {
-"id":"MNXR97159",
+"id":"DASYN161",
 "name":"CDP_diacylglycerol_synthetase_n_C16_1_c0",
 "metabolites":{
 "cdpdhdec9eg_c":1.0,
@@ -48440,7 +48440,7 @@
 }
 },
 {
-"id":"MNXR99881",
+"id":"G3PD6",
 "name":"glycerol_3_phosphate_dehydrogenase_menaquinone_8_c0",
 "metabolites":{
 "dhap_c":1.0,
@@ -48458,7 +48458,7 @@
 }
 },
 {
-"id":"PACCOAL",
+"id":"PACCOALr",
 "name":"Phenylacetate_CoA_ligase_c0",
 "metabolites":{
 "amp_c":1.0,
@@ -48606,7 +48606,7 @@
 }
 },
 {
-"id":"MNXR126447",
+"id":"ARBabc",
 "name":"L_arabinose_transport_via_ABC_system_c0",
 "metabolites":{
 "L-arabinopyranose_c":1.0,
@@ -48689,7 +48689,7 @@
 }
 },
 {
-"id":"MNXR135887",
+"id":"LPLIPAL2G141",
 "name":"Lysophospholipase_L2_2_acylglycerophosphoglycerol__n_C14_1_c0",
 "metabolites":{
 "MNXM146502_c":-1.0,
@@ -48867,7 +48867,7 @@
 }
 },
 {
-"id":"MNXR102595",
+"id":"PGSA180",
 "name":"Phosphatidylglycerol_synthase_n_C18_0_c0",
 "metabolites":{
 "cdpdodecg_c":-1.0,
@@ -49060,7 +49060,7 @@
 }
 },
 {
-"id":"MNXR135770",
+"id":"DAGK180",
 "name":"diacylglycerol_kinase_n_C18_0_c0",
 "metabolites":{
 "MNXM146748_c":-1.0,
@@ -49278,7 +49278,7 @@
 }
 },
 {
-"id":"MNXR97073",
+"id":"DAAD",
 "name":"D_Amino_acid_dehydrogenase_c0",
 "metabolites":{
 "ala__D_c":-1.0,
@@ -49403,7 +49403,7 @@
 }
 },
 {
-"id":"MNXR101165",
+"id":"LPLIPAL2A160",
 "name":"Lysophospholipase_L2_2_acylglycerophosphotidate__n_C16_0_c0",
 "metabolites":{
 "2hdecg3p_c":-1.0,
@@ -49580,7 +49580,7 @@
 }
 },
 {
-"id":"MNXR134206",
+"id":"L-LACD",
 "name":"S_Lactate_ferricytochrome_c_2_oxidoreductase_c0",
 "metabolites":{
 "MNXM89776_c":2.0,
@@ -49639,7 +49639,7 @@
 }
 },
 {
-"id":"RXN-17017",
+"id":"G3PAT140",
 "name":"glycerol_3_phosphate_acyltransferase_C14_0_c0",
 "metabolites":{
 "1tdecg3p_c":1.0,
@@ -49760,7 +49760,7 @@
 }
 },
 {
-"id":"MNXR101441",
+"id":"MDH3",
 "name":"Malate_dehydrogenase_menaquinone_8_as_acceptor_c0",
 "metabolites":{
 "mal__L_c":-1.0,
@@ -50041,7 +50041,7 @@
 }
 },
 {
-"id":"MNXR106789",
+"id":"GPT2_2",
 "name":"Acyl_CoA_glycerone_phosphate_O_acyltransferase_c0",
 "metabolites":{
 "acoa_c":-1.0,
@@ -50081,7 +50081,7 @@
 }
 },
 {
-"id":"MNXR110534",
+"id":"DHPPD",
 "name":"3_cis_5_6_dihydroxycyclohexa_1_3_dien_1_ylpropanoate_NAD_plus__oxidoreductase_c0",
 "metabolites":{
 "MNXM163340_c":-1.0,
@@ -50146,7 +50146,7 @@
 }
 },
 {
-"id":"MNXR137143",
+"id":"MEAMP1(ala-glu)",
 "name":"methionyl_aminopeptidase_c0",
 "metabolites":{
 "ala_L_glu__L_c":-1.0,
@@ -50187,7 +50187,7 @@
 }
 },
 {
-"id":"MNXR111734",
+"id":"FA80ACPHi",
 "name":"R08157_c0",
 "metabolites":{
 "ACP_c":1.0,
@@ -50273,7 +50273,7 @@
 }
 },
 {
-"id":"MNXR100874",
+"id":"IPDPS",
 "name":"isopentenyl_diphosphate_NAD_plus__oxidoreductase_c0",
 "metabolites":{
 "h2mb4p_c":-1.0,
@@ -50293,7 +50293,7 @@
 }
 },
 {
-"id":"MNXR95312",
+"id":"ACOAD4",
 "name":"acyl_CoA_dehydrogenase_decanoyl_CoA_c0",
 "metabolites":{
 "dc2coa_c":-1.0,
@@ -50312,7 +50312,7 @@
 }
 },
 {
-"id":"MNXR136034",
+"id":"FACOAL161",
 "name":"fatty_acid__CoA_ligase_hexadecenoate__peroxisomal_c0",
 "metabolites":{
 "MNXM56353_c":1.0,
@@ -50567,7 +50567,7 @@
 }
 },
 {
-"id":"RXN-7909",
+"id":"DHPR",
 "name":"5_6_7_8_tetrahydrobiopterin_NAD_plus__oxidoreductase_c0",
 "metabolites":{
 "CE2705_c":-1.0,
@@ -50655,7 +50655,7 @@
 }
 },
 {
-"id":"MNXR135886",
+"id":"LPLIPAL2G140",
 "name":"Lysophospholipase_L2_2_acylglycerophosphoglycerol__n_C14_0_c0",
 "metabolites":{
 "CPD-7836_c":1.0,
@@ -50735,7 +50735,7 @@
 }
 },
 {
-"id":"MNXR134508",
+"id":"DHAD2",
 "name":"R_2_3_Dihydroxy_3_methylpentanoate_hydro_lyase_c0",
 "metabolites":{
 "3mop_c":1.0,
@@ -50813,7 +50813,7 @@
 }
 },
 {
-"id":"RXN0-6975",
+"id":"MEAMP1(ala-asp)",
 "name":"RXN0_6975c_c0",
 "metabolites":{
 "CE1787_c":1.0,
@@ -51105,7 +51105,7 @@
 }
 },
 {
-"id":"RXN0-1441",
+"id":"ADPRDP",
 "name":"ADP_ribose_ribophosphohydrolase_c0",
 "metabolites":{
 "CPD-15317_c":1.0,
@@ -51235,7 +51235,7 @@
 }
 },
 {
-"id":"MNXR106668",
+"id":"HEX7",
 "name":"ATP_D_fructose_6_phosphotransferase_c0",
 "metabolites":{
 "CPD-18719_c":1.0,
@@ -51295,7 +51295,7 @@
 }
 },
 {
-"id":"RXN-9659",
+"id":"EAR80x",
 "name":"Octanoyl_acyl_carrier_protein_malonyl_CoA_C_acyltransferasedecarboxylating__oxoacyl__and_enoyl_reducing_c0",
 "metabolites":{
 "Octanoyl-ACPs_c":1.0,
@@ -51499,7 +51499,7 @@
 }
 },
 {
-"id":"MNXR135847",
+"id":"LPLIPAL1E120pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphoethanolamine__n_C12_0_periplasm_c0",
 "metabolites":{
 "DODECANOATE_c":1.0,
@@ -51562,7 +51562,7 @@
 }
 },
 {
-"id":"MNXR95165",
+"id":"AB6PGH",
 "name":"Arbutin_6_phosphate_glucohydrolase_c0",
 "metabolites":{
 "arbt6p_c":-1.0,
@@ -51690,7 +51690,7 @@
 }
 },
 {
-"id":"MNXR135729",
+"id":"AGPAT181",
 "name":"1_octadec_7_enoyl_sn_glycerol_3_phosphate_O_acyltransferase_n_C18_1_c0",
 "metabolites":{
 "1odec11eg3p_c":-1.0,
@@ -51874,7 +51874,7 @@
 }
 },
 {
-"id":"PSP",
+"id":"PSP_Lpp",
 "name":"O_phospho_L_serine_phosphohydrolase_c0",
 "metabolites":{
 "h2o_c":-1.0,
@@ -52009,7 +52009,7 @@
 }
 },
 {
-"id":"MNXR134528",
+"id":"COCHL",
 "name":"hydrogenobyrinic_acid_a_c_diamide_cobalt_cobalt_ligase_ADP_forming_c0",
 "metabolites":{
 "MNXM90295_c":-1.0,
@@ -52264,7 +52264,7 @@
 }
 },
 {
-"id":"MNXR103232",
+"id":"PSD160",
 "name":"Phosphatidylserine_decarboxylase_n_C16_0_c0",
 "metabolites":{
 "co2_c":1.0,
@@ -52366,7 +52366,7 @@
 }
 },
 {
-"id":"MCSNAH",
+"id":"MCSNAH1r",
 "name":"5_Methylcytosine_aminohydrolase_c0",
 "metabolites":{
 "5mcsn_c":-1.0,
@@ -52387,7 +52387,7 @@
 }
 },
 {
-"id":"MNXR135891",
+"id":"LPLIPAL2G181",
 "name":"Lysophospholipase_L2_2_acylglycerophosphoglycerol__n_C18_1_c0",
 "metabolites":{
 "MNXM146500_c":-1.0,
@@ -52511,7 +52511,7 @@
 }
 },
 {
-"id":"MNXR135934",
+"id":"PGPP140pp",
 "name":"phosphatidylglycerol_phosphate_phosphatase_periplasm__n_C14_0_c0",
 "metabolites":{
 "MNXM145672_c":1.0,
@@ -52586,7 +52586,7 @@
 }
 },
 {
-"id":"MNXR135830",
+"id":"G3PAT181",
 "name":"glycerol_3_phosphate_acyltransferase_C18_1_c0",
 "metabolites":{
 "1odec11eg3p_c":1.0,
@@ -52652,7 +52652,7 @@
 }
 },
 {
-"id":"DHPPDA2",
+"id":"RIB7_1",
 "name":"2_5_Diamino_6_hydroxy_4_5_phosphoribosylamino_pyrimidine_2_aminohydrolase_c0",
 "metabolites":{
 "25drapp_c":-1.0,
@@ -52698,7 +52698,7 @@
 }
 },
 {
-"id":"3OAR40_1",
+"id":"HBUR1",
 "name":"3R_3_Hydroxybutanoyl_acyl_carrier_protein_NADP_plus__oxidoreductase_c0",
 "metabolites":{
 "3hbutACP_c":-1.0,
@@ -52939,7 +52939,7 @@
 }
 },
 {
-"id":"MNXR135857",
+"id":"LPLIPAL1G160pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphoglycerol__n_C16_0_periplasm_c0",
 "metabolites":{
 "MNXM147675_c":-1.0,
@@ -52957,7 +52957,7 @@
 }
 },
 {
-"id":"L_LACt2r",
+"id":"L_LACt2rpp",
 "name":"L_lactate_reversible_transport_via_proton_symport_c0",
 "metabolites":{
 "h_c":1.0,
@@ -53020,7 +53020,7 @@
 }
 },
 {
-"id":"MNXR134590",
+"id":"NODOx",
 "name":"nitric_oxide__NADPH2_oxygen_oxidoreductase_c0",
 "metabolites":{
 "MNXM162249_c":-2.0,
@@ -53058,7 +53058,7 @@
 }
 },
 {
-"id":"MNXR101275",
+"id":"L_LACD3",
 "name":"L_Lactate_dehydrogenase_menaquinone_c0",
 "metabolites":{
 "lac__L_c":-1.0,
@@ -53103,7 +53103,7 @@
 }
 },
 {
-"id":"MNXR101766",
+"id":"CATC",
 "name":"5_oxo_2_5_dihydrofuran_2_acetate_delta3_delat2_isomerase_c0",
 "metabolites":{
 "5odhf2a_c":1.0,
@@ -53357,7 +53357,7 @@
 }
 },
 {
-"id":"MNXR135494",
+"id":"BLACT",
 "name":"Penicillin_hydrolase_c0",
 "metabolites":{
 "MNXM73074_c":-1.0,
@@ -53457,7 +53457,7 @@
 }
 },
 {
-"id":"CTPS1",
+"id":"URA7_2",
 "name":"UTP_ammonia_ligase_ADP_forming_c0",
 "metabolites":{
 "adp_c":1.0,
@@ -53776,7 +53776,7 @@
 }
 },
 {
-"id":"MNXR135939",
+"id":"PGSA141",
 "name":"Phosphatidylglycerol_synthase_n_C14_1_c0",
 "metabolites":{
 "MNXM91690_c":1.0,
@@ -53987,7 +53987,7 @@
 }
 },
 {
-"id":"MNXR108111",
+"id":"DMOCT",
 "name":"CTP_3_deoxy_D_manno_octulosonate_cytidylyltransferase_c0",
 "metabolites":{
 "MNXM989_c":-1.0,
@@ -54068,7 +54068,7 @@
 }
 },
 {
-"id":"RXN-14226",
+"id":"DHPS",
 "name":"2_amino_4_hydroxy_6_hydroxymethyl_7_8_dihydropteridine_4_aminobenzoate_2_amino_4_hydroxydihydropteridine_6_methenyltransferase_c0",
 "metabolites":{
 "4abz_c":-1.0,
@@ -54251,7 +54251,7 @@
 }
 },
 {
-"id":"MNXR101039",
+"id":"LDH_D2",
 "name":"DLACTDEHYDROGFAD_RXNcmetaexpCPD_9956_c0",
 "metabolites":{
 "lac__D_c":-1.0,
@@ -54325,7 +54325,7 @@
 }
 },
 {
-"id":"MNXR107994",
+"id":"FCI",
 "name":"L_fucose_aldose_ketose_isomerase_c0",
 "metabolites":{
 "HC00832_c":1.0,
@@ -54498,7 +54498,7 @@
 }
 },
 {
-"id":"ACACT5r_1",
+"id":"ACACT5r",
 "name":"Decanoyl_CoA_acetyl_CoA_C_acyltransferase_c0",
 "metabolites":{
 "3oddcoa_c":1.0,
@@ -54604,7 +54604,7 @@
 }
 },
 {
-"id":"UREA",
+"id":"UREA2",
 "name":"Urea_amidohydrolase_c0",
 "metabolites":{
 "co2_c":1.0,
@@ -54730,7 +54730,7 @@
 }
 },
 {
-"id":"MNXR134792",
+"id":"CBIAT",
 "name":"ATP_cobinamide_Cobeta_adenosyltransferase_c0",
 "metabolites":{
 "MNXM90619_c":-1.0,
@@ -55078,7 +55078,7 @@
 }
 },
 {
-"id":"MNXR135888",
+"id":"LPLIPAL2G160",
 "name":"Lysophospholipase_L2_2_acylglycerophosphoglycerol__n_C16_0_c0",
 "metabolites":{
 "MNXM146342_c":-1.0,
@@ -55135,7 +55135,7 @@
 }
 },
 {
-"id":"MNXR99669",
+"id":"FTHFD",
 "name":"10_Formyltetrahydrofolate_amidohydrolase_c0",
 "metabolites":{
 "10fthf_c":-1.0,
@@ -55155,7 +55155,7 @@
 }
 },
 {
-"id":"MNXR135882",
+"id":"LPLIPAL2E141",
 "name":"Lysophospholipase_L2_2_acylglycerophosphoethanolamine__n_C14_1_c0",
 "metabolites":{
 "MNXM146497_c":-1.0,
@@ -55601,7 +55601,7 @@
 }
 },
 {
-"id":"MNXR107173",
+"id":"HPDOAi",
 "name":"5_6_7_8_tetrahydrobiopterin_NADP_plus__oxidoreductase_c0",
 "metabolites":{
 "CE2705_c":-1.0,
@@ -55620,7 +55620,7 @@
 }
 },
 {
-"id":"LACTOSE-6-PHOSPHATE-ISOMERASE-RXN",
+"id":"GAL6PI",
 "name":"D_Galactose_6_phosphate_ketol_isomerase_c0",
 "metabolites":{
 "D-galactopyranose-6-phosphate_c":-1.0,
@@ -55637,7 +55637,7 @@
 }
 },
 {
-"id":"MNXR135850",
+"id":"LPLIPAL1E160pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphoethanolamine__n_C16_0_periplasm_c0",
 "metabolites":{
 "MNXM6600_c":-1.0,
@@ -55946,7 +55946,7 @@
 }
 },
 {
-"id":"MNXR136192",
+"id":"TTDCAt2",
 "name":"Tetradecanoate_transport_via_proton_symport_c0",
 "metabolites":{
 "CPD-7836_c":1.0,
@@ -56073,7 +56073,7 @@
 }
 },
 {
-"id":"MNXR136001",
+"id":"TMAOR2e",
 "name":"Trimethylamine_N_oxide_reductase_demethylmenaquinol_8_periplasm_c0",
 "metabolites":{
 "2dmmq8_e":1.0,
@@ -56255,7 +56255,7 @@
 }
 },
 {
-"id":"PROPANOATECOA-LIGASE-RXN",
+"id":"ACCOAL",
 "name":"Propanoate_CoA_ligase_ADP_forming_c0",
 "metabolites":{
 "PROPIONATE_c":-1.0,
@@ -56517,7 +56517,7 @@
 }
 },
 {
-"id":"MNXR135933",
+"id":"PGPP120pp",
 "name":"phosphatidylglycerol_phosphate_phosphatase_periplasm__n_C14_0_c0",
 "metabolites":{
 "MNXM162584_c":1.0,
@@ -56555,7 +56555,7 @@
 }
 },
 {
-"id":"AIRS-RXN",
+"id":"ADE5_7_2",
 "name":"2_Formamido_N1_5_phosphoribosylacetamidine_cyclo_ligase_ADP_forming_c0",
 "metabolites":{
 "5-PHOSPHORIBOSYL-5-AMINOIMIDAZOLE_c":1.0,
@@ -56576,7 +56576,7 @@
 }
 },
 {
-"id":"MNXR135728",
+"id":"AGPAT180",
 "name":"1_octadecanoyl_sn_glycerol_3_phosphate_O_acyltransferase_n_C18_0_c0",
 "metabolites":{
 "1odecg3p_c":-1.0,
@@ -56615,7 +56615,7 @@
 }
 },
 {
-"id":"MNXR135854",
+"id":"LPLIPAL1G120pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphoglycerol__n_C12_0_periplasm_c0",
 "metabolites":{
 "DODECANOATE_c":1.0,
@@ -56697,7 +56697,7 @@
 }
 },
 {
-"id":"ADOCBIAH",
+"id":"ADCOBASr",
 "name":"adenosylcobinamide_amidohydrolase_c0",
 "metabolites":{
 "adcobhex_c":-1.0,
@@ -56744,7 +56744,7 @@
 }
 },
 {
-"id":"MNXR95639",
+"id":"AICART",
 "name":"10_Formyltetrahydrofolate_5_phosphoribosyl_5_amino_4_imidazolecarboxamide_formyltransferase_c0",
 "metabolites":{
 "10fthf_c":-1.0,
@@ -56763,7 +56763,7 @@
 }
 },
 {
-"id":"MNXR100623",
+"id":"HG2abcpp",
 "name":"Mercury_Hg_plus_2_ABC_transporter_periplasm_c0",
 "metabolites":{
 "adp_c":1.0,
@@ -56805,7 +56805,7 @@
 }
 },
 {
-"id":"MNXR135727",
+"id":"AGPAT161",
 "name":"1_hexadec_7_enoyl_sn_glycerol_3_phosphate_O_acyltransferase_n_C16_1_c0",
 "metabolites":{
 "1hdec9eg3p_c":-1.0,
@@ -56869,7 +56869,7 @@
 }
 },
 {
-"id":"MNXR135862",
+"id":"LPLIPAL2A140",
 "name":"Lysophospholipase_L2_2_acylglycerophosphotidate__n_C14_0_c0",
 "metabolites":{
 "2tdecg3p_c":-1.0,
@@ -56972,7 +56972,7 @@
 }
 },
 {
-"id":"MNXR97161",
+"id":"DASYN181",
 "name":"CDP_diacylglycerol_synthetase_n_C18_1_c0",
 "metabolites":{
 "cdpdodec11eg_c":1.0,
@@ -57204,7 +57204,7 @@
 }
 },
 {
-"id":"MNXR95251",
+"id":"ACGAMT",
 "name":"UDP_N_acetyl_D_glucosamine_undecaprenyl_phosphate_N_acetyl_D_glucosamine_phosphotransferase_c0",
 "metabolites":{
 "uacgam_c":-1.0,
@@ -57222,7 +57222,7 @@
 }
 },
 {
-"id":"MNXR135989",
+"id":"PSSA181",
 "name":"Phosphatidylserine_syntase_n_C18_1_c0",
 "metabolites":{
 "MNXM92578_c":1.0,
@@ -57451,7 +57451,7 @@
 }
 },
 {
-"id":"MNXR97157",
+"id":"DASYN160",
 "name":"CDP_diacylglycerol_synthetase_n_C16_0_c0",
 "metabolites":{
 "cdpdhdecg_c":1.0,
@@ -57981,7 +57981,7 @@
 }
 },
 {
-"id":"AHEXASE3",
+"id":"HXAD",
 "name":"chitobiose_N_acetylglucosaminohydrolase_c0",
 "metabolites":{
 "acgam_c":2.0,
@@ -58003,7 +58003,7 @@
 }
 },
 {
-"id":"BISPHOSPHOGLYCERATE-MUTASE-RXN",
+"id":"DPGM",
 "name":"3_phospho_D_glycerate_1_2_phosphomutase_c0",
 "metabolites":{
 "13dpg_c":-1.0,
@@ -58040,7 +58040,7 @@
 }
 },
 {
-"id":"MNXR134591",
+"id":"NODO",
 "name":"nitric_oxide__NADPH2_oxygen_oxidoreductase_c0",
 "metabolites":{
 "MNXM162249_c":-2.0,
@@ -58189,7 +58189,7 @@
 }
 },
 {
-"id":"MNXR110899",
+"id":"PHE4MOi3",
 "name":"L_phenylalanine_tetrahydrobiopterin_oxygen_oxidoreductase4_hydroxylating_c0",
 "metabolites":{
 "MNXM31340_c":1.0,
@@ -58331,7 +58331,7 @@
 }
 },
 {
-"id":"MNXR135826",
+"id":"G3PAT141",
 "name":"glycerol_3_phosphate_acyltransferase_C14_1_c0",
 "metabolites":{
 "1tdec7eg3p_c":1.0,
@@ -58917,7 +58917,7 @@
 }
 },
 {
-"id":"MNXR109090",
+"id":"4AHD2",
 "name":"4a_hydroxytetrahydrobiopterin_hydro_lyase_c0",
 "metabolites":{
 "CE2705_c":1.0,
@@ -59196,7 +59196,7 @@
 }
 },
 {
-"id":"MNXR108083",
+"id":"CDPGS",
 "name":"R03298_c0",
 "metabolites":{
 "23-DIPHOSPHOGLYCERATE_c":-1.0,
@@ -59237,7 +59237,7 @@
 }
 },
 {
-"id":"RXN0-6978",
+"id":"MEAMP1(ala-his)",
 "name":"RXN0_6978c_c0",
 "metabolites":{
 "CPD-13401_c":-1.0,
@@ -59317,7 +59317,7 @@
 }
 },
 {
-"id":"RXN-12559",
+"id":"ACOAD2",
 "name":"trans_2_hexenoyl_CoA__reductase_NAD_plus__c0",
 "metabolites":{
 "HEXANOYL-COA_c":1.0,
@@ -59336,7 +59336,7 @@
 }
 },
 {
-"id":"MNXR104329",
+"id":"SEPHCHCS",
 "name":"2_succinyl_5_enolpyruvyl_6_hydroxy_3_cyclohexene_1_carboxylate_synthase_c0",
 "metabolites":{
 "2sephchc_c":1.0,
@@ -59399,7 +59399,7 @@
 }
 },
 {
-"id":"MNXR111735",
+"id":"FA100ACPHi",
 "name":"R08158_c0",
 "metabolites":{
 "ACP_c":1.0,
@@ -59520,7 +59520,7 @@
 }
 },
 {
-"id":"MNXR106812",
+"id":"TKT2",
 "name":"D_Fructose_6_phosphate_D_glyceraldehyde_3_phosphate_glycolaldehyde_transferase_c0",
 "metabolites":{
 "CPD-18719_c":-1.0,
@@ -59675,7 +59675,7 @@
 }
 },
 {
-"id":"AEPPYRTA",
+"id":"2AEPPNAT",
 "name":"2_Aminoethylphosphonate_pyruvate_aminotransferase_c0",
 "metabolites":{
 "2ameph_c":-1.0,
@@ -59695,7 +59695,7 @@
 }
 },
 {
-"id":"FGAMSYN-RXN",
+"id":"ADE6",
 "name":"5_Phosphoribosylformylglycinamide_L_glutamine_amido_ligase_ADP_forming_c0",
 "metabolites":{
 "5-PHOSPHORIBOSYL-N-FORMYLGLYCINEAMIDINE_c":1.0,
@@ -59838,7 +59838,7 @@
 }
 },
 {
-"id":"MNXR135852",
+"id":"LPLIPAL1E180pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphoethanolamine__n_C18_0_periplasm_c0",
 "metabolites":{
 "MNXM96082_c":-1.0,
@@ -59856,7 +59856,7 @@
 }
 },
 {
-"id":"MNXR106678",
+"id":"PGI",
 "name":"D_glucose_6_phosphate_aldose_ketose_isomerase_c0",
 "metabolites":{
 "CPD-18719_c":1.0,
@@ -59872,7 +59872,7 @@
 }
 },
 {
-"id":"RXN0-6974",
+"id":"MEAMP1(gly-met)",
 "name":"RXN0_6974c_c0",
 "metabolites":{
 "gly_c":1.0,
@@ -59954,7 +59954,7 @@
 }
 },
 {
-"id":"MNXR106671",
+"id":"FBP26",
 "name":"beta_D_fructose_2_6_bisphosphate_2_phosphohydrolase_c0",
 "metabolites":{
 "CPD-18719_c":1.0,
@@ -60183,7 +60183,7 @@
 }
 },
 {
-"id":"MNXR96325",
+"id":"BSORx",
 "name":"Biotin_sulfoxide_reductase_c0",
 "metabolites":{
 "btn_c":1.0,
@@ -60391,7 +60391,7 @@
 }
 },
 {
-"id":"MNXR135849",
+"id":"LPLIPAL1E141pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphoethanolamine__n_C14_1_periplasm_c0",
 "metabolites":{
 "MNXM147672_c":-1.0,
@@ -60504,7 +60504,7 @@
 }
 },
 {
-"id":"MNXR95387",
+"id":"ACONTb",
 "name":"isocitrate_hydro_lyase_cis_aconitate_forming_c0",
 "metabolites":{
 "acon_C_c":1.0,
@@ -60539,7 +60539,7 @@
 }
 },
 {
-"id":"MNXR99841",
+"id":"G1PACTr",
 "name":"Acetyl_CoA_D_glucosamine_1_phosphate_N_acetyltransferase_c0",
 "metabolites":{
 "accoa_c":-1.0,
@@ -60673,7 +60673,7 @@
 }
 },
 {
-"id":"MNXR107552",
+"id":"SHSL1r",
 "name":"R02508_c0",
 "metabolites":{
 "MNXM7231_c":-1.0,
@@ -60886,7 +60886,7 @@
 }
 },
 {
-"id":"HYDROXYMETHYLGLUTARYL-COA-LYASE-RXN",
+"id":"HMGL",
 "name":"S_3_hydroxy_3_methylglutaryl_CoA_acetoacetate_lyase_acetyl_CoA_forming_c0",
 "metabolites":{
 "3-HYDROXY-3-METHYL-GLUTARYL-COA_c":-1.0,
@@ -61010,7 +61010,7 @@
 }
 },
 {
-"id":"ACOAD9m",
+"id":"2MACOAD",
 "name":"isobutyryl_CoA_dehydrogenase_c0",
 "metabolites":{
 "2mp2coa_c":-1.0,
@@ -61075,7 +61075,7 @@
 }
 },
 {
-"id":"MNLDH2",
+"id":"MNLDH",
 "name":"D_Mannitol_NAD_plus__2_oxidoreductase_c0",
 "metabolites":{
 "fru_c":1.0,
@@ -61121,7 +61121,7 @@
 }
 },
 {
-"id":"MNXR100634",
+"id":"HIBD",
 "name":"3_Hydroxy_2_methylpropanoate_NAD_plus__oxidoreductase_c0",
 "metabolites":{
 "2mop_c":1.0,
@@ -61141,7 +61141,7 @@
 }
 },
 {
-"id":"MNXR135982",
+"id":"PSD141",
 "name":"Phosphatidylserine_decarboxylase_n_C14_1_c0",
 "metabolites":{
 "MNXM146608_c":1.0,
@@ -61203,7 +61203,7 @@
 }
 },
 {
-"id":"MNXR135938",
+"id":"PGSA140",
 "name":"Phosphatidylglycerol_synthase_n_C14_0_c0",
 "metabolites":{
 "MNXM91691_c":1.0,
@@ -61364,7 +61364,7 @@
 }
 },
 {
-"id":"MNXR135831",
+"id":"G3PD7",
 "name":"anaerobic_glycerol_3_phosphate_dehydrogenase_c0",
 "metabolites":{
 "2dmmq8_c":-1.0,
@@ -61406,7 +61406,7 @@
 }
 },
 {
-"id":"AMPDA",
+"id":"AMD1_1",
 "name":"AMP_aminohydrolase_c0",
 "metabolites":{
 "amp_c":-1.0,
@@ -61596,7 +61596,7 @@
 }
 },
 {
-"id":"MNXR95709",
+"id":"ALCD19",
 "name":"Glycerol_NAD_plus__oxidoreductase_c0",
 "metabolites":{
 "glyald_c":1.0,
@@ -61616,7 +61616,7 @@
 }
 },
 {
-"id":"MNXR135828",
+"id":"G3PAT161",
 "name":"glycerol_3_phosphate_acyltransferase_C16_1_c0",
 "metabolites":{
 "1hdec9eg3p_c":1.0,
@@ -61634,7 +61634,7 @@
 }
 },
 {
-"id":"MNXR135855",
+"id":"LPLIPAL1G140pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphoglycerol__n_C14_0_periplasm_c0",
 "metabolites":{
 "CPD-7836_c":1.0,
@@ -61829,7 +61829,7 @@
 }
 },
 {
-"id":"RXN-14149",
+"id":"R08504",
 "name":"3D_3_54_Trihydroxycyclohexane_1_2_dione_acylhydrolase_decyclizing_c0",
 "metabolites":{
 "CPD-15127_c":1.0,
@@ -61848,7 +61848,7 @@
 }
 },
 {
-"id":"MNXR135863",
+"id":"LPLIPAL2A141",
 "name":"Lysophospholipase_L2_2_acylglycerophosphotidate__n_C14_1_c0",
 "metabolites":{
 "2tdec7eg3p_c":-1.0,
@@ -62004,7 +62004,7 @@
 }
 },
 {
-"id":"PROPKIN-RXN",
+"id":"PPAK",
 "name":"ATP_propanoate_phosphotransferase_c0",
 "metabolites":{
 "PROPIONATE_c":-1.0,
@@ -62133,7 +62133,7 @@
 }
 },
 {
-"id":"MNXR135765",
+"id":"DAGK120",
 "name":"diacylglycerol_kinase_n_C12_0_c0",
 "metabolites":{
 "MNXM147349_c":-1.0,
@@ -62260,7 +62260,7 @@
 }
 },
 {
-"id":"MNXR134353",
+"id":"METB1",
 "name":"O_Acetyl_L_homoserine_succinate_lyase_adding_cysteine_c0",
 "metabolites":{
 "MNXM7231_c":1.0,
@@ -62335,7 +62335,7 @@
 }
 },
 {
-"id":"MNXR104038",
+"id":"RMI",
 "name":"L_Rhamnose_ketol_isomerase_c0",
 "metabolites":{
 "rml_c":1.0,
@@ -62413,7 +62413,7 @@
 }
 },
 {
-"id":"RXN-9539",
+"id":"FAS2_7_1",
 "name":"Tetradecanoyl_acyl_carrier_protein_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0",
 "metabolites":{
 "3opalmACP_c":1.0,
@@ -62503,7 +62503,7 @@
 }
 },
 {
-"id":"MNXR137141",
+"id":"MEAMP1(met-ala)",
 "name":"methionyl_aminopeptidase_c0",
 "metabolites":{
 "ala__L_c":1.0,
@@ -62985,7 +62985,7 @@
 }
 },
 {
-"id":"MNXR135827",
+"id":"G3PAT160",
 "name":"glycerol_3_phosphate_acyltransferase_C16_0_c0",
 "metabolites":{
 "1hdecg3p_c":1.0,
@@ -63003,7 +63003,7 @@
 }
 },
 {
-"id":"MNXR96326",
+"id":"BSORy",
 "name":"Biotin_sulfoxide_reductase_c0",
 "metabolites":{
 "btn_c":1.0,
@@ -63024,7 +63024,7 @@
 }
 },
 {
-"id":"MNXR96758",
+"id":"PGGH",
 "name":"6_phospho_beta_D_glucosyl_1_4_D_glucose_6_phosphoglucohydrolase_c0",
 "metabolites":{
 "cellb6p_c":-1.0,
@@ -63385,7 +63385,7 @@
 }
 },
 {
-"id":"MNXR135018",
+"id":"GLC3",
 "name":"1_4_alpha_glucan_branching_enzyme_c0",
 "metabolites":{
 "MNXM6281_c":1.0,
@@ -63422,7 +63422,7 @@
 }
 },
 {
-"id":"MNXR135984",
+"id":"PSD181",
 "name":"Phosphatidylserine_decarboxylase_n_C18_1_c0",
 "metabolites":{
 "MNXM162770_c":1.0,
@@ -63439,7 +63439,7 @@
 }
 },
 {
-"id":"MNXR102373",
+"id":"PAPPT3",
 "name":"UDP_N_acetylmuramoyl_L_alanyl_gamma_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_alanine_undecaprenyl_phosphate_phospho_N_acetylmuramoyl_pentapeptide_transferase_c0",
 "metabolites":{
 "uagmda_c":1.0,
@@ -63821,7 +63821,7 @@
 }
 },
 {
-"id":"MNXR135883",
+"id":"LPLIPAL2E161",
 "name":"Lysophospholipase_L2_2_acylglycerophosphoethanolamine__n_C16_1_c0",
 "metabolites":{
 "MNXM146495_c":-1.0,
@@ -63924,7 +63924,7 @@
 }
 },
 {
-"id":"MNXR134586",
+"id":"UDCPDP",
 "name":"undecaprenyl_diphosphate_phosphohydrolase_c0",
 "metabolites":{
 "dtpcudcpp_c":-1.0,
@@ -64161,7 +64161,7 @@
 }
 },
 {
-"id":"RXN-9658",
+"id":"EAR60x",
 "name":"Hexanoyl_acyl_carrier_protein_malonyl_CoA_C_acyltransferasedecarboxylating__oxoacyl__and_enoyl_reducing_c0",
 "metabolites":{
 "Hexanoyl-ACPs_c":1.0,
@@ -64326,7 +64326,7 @@
 }
 },
 {
-"id":"MNXR135845",
+"id":"LPLIPAL1A161pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphotidate__n_C16_1_periplasm_c0",
 "metabolites":{
 "1hdec9eg3p_c":-1.0,
@@ -64451,7 +64451,7 @@
 }
 },
 {
-"id":"MNXR97418",
+"id":"DHORD2",
 "name":"S_dihydroorotate_quinone_oxidoreductase_c0",
 "metabolites":{
 "dhor__S_c":-1.0,
@@ -65139,7 +65139,7 @@
 }
 },
 {
-"id":"MNXR135987",
+"id":"PSSA141",
 "name":"Phosphatidylserine_syntase_n_C14_1_c0",
 "metabolites":{
 "MNXM92580_c":1.0,
@@ -65387,7 +65387,7 @@
 }
 },
 {
-"id":"MNXR135936",
+"id":"PGPP181pp",
 "name":"phosphatidylglycerol_phosphate_phosphatase_periplasm__n_C18_1_c0",
 "metabolites":{
 "MNXM162552_c":1.0,
@@ -65481,7 +65481,7 @@
 }
 },
 {
-"id":"MNXR127034",
+"id":"DIPEPabc5",
 "name":"oligopeptide_transporting_ATPase_c0",
 "metabolites":{
 "CPD-13401_c":1.0,
@@ -65543,7 +65543,7 @@
 }
 },
 {
-"id":"MNXR132627",
+"id":"CYSTLr",
 "name":"Cystathionine_L_homocysteine_lyase_deaminating_c0",
 "metabolites":{
 "MNXM7231_c":-1.0,
@@ -65783,7 +65783,7 @@
 }
 },
 {
-"id":"MNXR135860",
+"id":"LPLIPAL1G181pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphoglycerol__n_C18_1_periplasm_c0",
 "metabolites":{
 "MNXM65309_c":1.0,
@@ -65972,7 +65972,7 @@
 }
 },
 {
-"id":"MNXR100468",
+"id":"GUI1",
 "name":"D_glucuronate_aldose_ketose_isomerase_c0",
 "metabolites":{
 "fruur_c":1.0,
@@ -66031,7 +66031,7 @@
 }
 },
 {
-"id":"MNXR135843",
+"id":"LPLIPAL1A140pp",
 "name":"Lysophospholipase_L1_2_acylglycerophosphotidate__n_C14_0_periplasm_c0",
 "metabolites":{
 "1tdecg3p_c":-1.0,
@@ -66111,7 +66111,7 @@
 }
 },
 {
-"id":"MNXR135937",
+"id":"PGSA120",
 "name":"Phosphatidylglycerol_synthase_n_C12_0_c0",
 "metabolites":{
 "MNXM91685_c":1.0,
@@ -66128,7 +66128,7 @@
 }
 },
 {
-"id":"MNXR134211",
+"id":"FCLT",
 "name":"protoheme_ferro_lyase_protoporphyrin_forming_c0",
 "metabolites":{
 "MNXM78362_c":1.0,
@@ -66309,7 +66309,7 @@
 }
 },
 {
-"id":"MNXR97155",
+"id":"DASYN140",
 "name":"CDP_diacylglycerol_synthetase_n_C14_0_c0",
 "metabolites":{
 "cdpdtdecg_c":1.0,
@@ -66591,7 +66591,7 @@
 }
 },
 {
-"id":"MNXR137145",
+"id":"MEAMP1(gly-asn)",
 "name":"methionyl_aminopeptidase_c0",
 "metabolites":{
 "asn__L_c":1.0,
@@ -66685,7 +66685,7 @@
 }
 },
 {
-"id":"PROPIONATE--COA-LIGASE-RXN",
+"id":"ACS2",
 "name":"Propanoate_CoA_ligase_AMP_forming_c0",
 "metabolites":{
 "PROPIONATE_c":-1.0,
@@ -66792,7 +66792,7 @@
 }
 },
 {
-"id":"MNXR135889",
+"id":"LPLIPAL2G161",
 "name":"Lysophospholipase_L2_2_acylglycerophosphoglycerol__n_C16_1_c0",
 "metabolites":{
 "MNXM146499_c":-1.0,
@@ -66810,7 +66810,7 @@
 }
 },
 {
-"id":"MNXR136033",
+"id":"FACOAL181",
 "name":"fatty_acid__CoA_ligase_octadecenoate_c0",
 "metabolites":{
 "MNXM162298_c":1.0,
@@ -66829,7 +66829,7 @@
 }
 },
 {
-"id":"MNXR103269",
+"id":"PSSA160",
 "name":"Phosphatidylserine_syntase_n_C16_0_c0",
 "metabolites":{
 "cdpdhdecg_c":-1.0,
@@ -66888,7 +66888,7 @@
 }
 },
 {
-"id":"MNXR134185",
+"id":"CCP",
 "name":"ferrocytochrome_c_hydrogen_peroxide_oxidoreductase_c0",
 "metabolites":{
 "MNXM89776_c":-2.0,
@@ -66925,7 +66925,7 @@
 }
 },
 {
-"id":"HOMOCITRATE-SYNTHASE-RXN",
+"id":"HCITS",
 "name":"acetyl_CoA_2_oxoglutarate_C_acetyltransferase_thioester_hydrolysing__carboxymethyl_forming_c0",
 "metabolites":{
 "HOMO-CIT_c":1.0,
@@ -66967,7 +66967,7 @@
 }
 },
 {
-"id":"MNXR135766",
+"id":"DAGK140",
 "name":"diacylglycerol_kinase_n_C14_0_c0",
 "metabolites":{
 "MNXM2902_c":-1.0,
@@ -67129,7 +67129,7 @@
 }
 },
 {
-"id":"MNXR102594",
+"id":"PGSA161",
 "name":"Phosphatidylglycerol_synthase_n_C16_1_c0",
 "metabolites":{
 "cdpdhdec9eg_c":-1.0,
@@ -67394,7 +67394,7 @@
 }
 },
 {
-"id":"RXN-9527",
+"id":"3OAS100",
 "name":"Octanoyl_acyl_carrier_protein_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0",
 "metabolites":{
 "3odecACP_c":1.0,
@@ -67414,7 +67414,7 @@
 }
 },
 {
-"id":"MNXR104889",
+"id":"TMDS",
 "name":"5_10_Methylenetetrahydrofolate_dUMP_C_methyltransferase_c0",
 "metabolites":{
 "dhf_c":1.0,
@@ -67499,7 +67499,7 @@
 }
 },
 {
-"id":"MNXR126663",
+"id":"FAA1_2",
 "name":"acyl_coenzyme_A_ligase_c0",
 "metabolites":{
 "CPD-7836_c":-1.0,
@@ -67627,7 +67627,7 @@
 }
 },
 {
-"id":"MNXR135769",
+"id":"DAGK161",
 "name":"diacylglycerol_kinase_n_C16_1_c0",
 "metabolites":{
 "MNXM146746_c":-1.0,
@@ -67666,7 +67666,7 @@
 }
 },
 {
-"id":"MNXR105033",
+"id":"UAGDPr",
 "name":"UTP_N_acetyl_alpha_D_glucosamine_1_phosphate_uridylyltransferase_c0",
 "metabolites":{
 "acgam1p_c":-1.0,
@@ -67946,7 +67946,7 @@
 }
 },
 {
-"id":"MNXR94886",
+"id":"HBUHL1",
 "name":"3R_3_Hydroxybutanoyl_acyl_carrier_protein_hydro_lyase_c0",
 "metabolites":{
 "3hbutACP_c":-1.0,
@@ -67964,7 +67964,7 @@
 }
 },
 {
-"id":"MNXR135833",
+"id":"GLCTR1",
 "name":"glucosyltransferase_I_LPS_core_synthesis_c0",
 "metabolites":{
 "MNXM92389_c":-1.0,
@@ -67982,7 +67982,7 @@
 }
 },
 {
-"id":"MNXR100228",
+"id":"GLCTR3",
 "name":"glucosyltransferase_III_LPS_core_synthesis_c0",
 "metabolites":{
 "ggagicolipa_c":-1.0,
@@ -68143,7 +68143,7 @@
 }
 },
 {
-"id":"UDP-NACMURALGLDAPAALIG-RXN",
+"id":"UGMDDS",
 "name":"UDP_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminoheptanedioate_D_alanyl_D_alanine_ligaseADP_forming_c0",
 "metabolites":{
 "UDP-AAGM-DIAMINOHEPTANEDIOATE_c":-1.0,
@@ -68165,7 +68165,7 @@
 }
 },
 {
-"id":"MNXR100227",
+"id":"GLCTR2",
 "name":"glucosyltransferase_II_LPS_core_synthesis_c0",
 "metabolites":{
 "gagicolipa_c":-1.0,
@@ -68222,7 +68222,7 @@
 }
 },
 {
-"id":"MNXR108110",
+"id":"KDOPP",
 "name":"3_Deoxy_D_manno_octulosonate_8_phosphate_8_phosphohydrolase_c0",
 "metabolites":{
 "MNXM989_c":1.0,
@@ -68240,7 +68240,7 @@
 }
 },
 {
-"id":"MNXR100606",
+"id":"HEPT3",
 "name":"heptosyltransferase_III_LPS_core_synthesis_c0",
 "metabolites":{
 "adp_c":1.0,
@@ -68258,7 +68258,7 @@
 }
 },
 {
-"id":"MNXR100598",
+"id":"HEPK1",
 "name":"LPS_heptose_kinase_I_LPS_core_synthesis_c0",
 "metabolites":{
 "adp_c":1.0,
@@ -68277,7 +68277,7 @@
 }
 },
 {
-"id":"MNXR100599",
+"id":"HEPK2",
 "name":"LPS_heptose_kinase_II_LPS_core_synthesis_c0",
 "metabolites":{
 "adp_c":1.0,
@@ -68509,7 +68509,7 @@
 }
 },
 {
-"id":"MNXR100015",
+"id":"GALT1",
 "name":"galactosyltransferase_I_LPS_core_synthesis_c0",
 "metabolites":{
 "gagicolipa_c":1.0,
@@ -68581,7 +68581,7 @@
 }
 },
 {
-"id":"MNXR101686",
+"id":"MOAT3C",
 "name":"3_deoxy_D_manno_octulosonic_acid_transferase_III_LPS_core_biosynthesis_c0",
 "metabolites":{
 "ckdo_c":-1.0,
@@ -68600,7 +68600,7 @@
 }
 },
 {
-"id":"MNXR135774",
+"id":"DHNAOT4",
 "name":"1_4_dihydroxy_2_naphthoate_octaprenyltransferase_c0",
 "metabolites":{
 "MNXM162337_c":1.0,
@@ -68686,7 +68686,7 @@
 }
 },
 {
-"id":"MNXR135993",
+"id":"RHAT1",
 "name":"rhamnosyltransferase_I_LPS_core_biosynthesis_c0",
 "metabolites":{
 "MNXM92389_c":1.0,
@@ -68704,7 +68704,7 @@
 }
 },
 {
-"id":"MNXR134973",
+"id":"MNt2",
 "name":"manganese_transport_in_via_proton_symport_c0",
 "metabolites":{
 "h_c":1.0,
@@ -68737,7 +68737,7 @@
 }
 },
 {
-"id":"MNXR100607",
+"id":"HEPT4",
 "name":"heptosyltransferase_IV_LPS_core_synthesis_c0",
 "metabolites":{
 "adp_c":1.0,
@@ -68854,7 +68854,7 @@
 }
 },
 {
-"id":"EX_cpd00067",
+"id":"EX_h_e",
 "name":"EX_H_plus__e0",
 "metabolites":{
 "h_e":-1.0
@@ -68864,7 +68864,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00182",
+"id":"EX_adn_c",
 "name":"EX_Adenosine_e0",
 "metabolites":{
 "adn_e":-1.0
@@ -68874,7 +68874,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00106",
+"id":"EX_fum_c",
 "name":"EX_Fumarate_e0",
 "metabolites":{
 "fum_e":-1.0
@@ -68884,7 +68884,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00075",
+"id":"EX_no2_c",
 "name":"EX_Nitrite_e0",
 "metabolites":{
 "no2_e":-1.0
@@ -68894,7 +68894,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00064",
+"id":"EX_orn_c",
 "name":"EX_Ornithine_e0",
 "metabolites":{
 "orn_e":-1.0
@@ -68914,7 +68914,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00036",
+"id":"EX_succ_c",
 "name":"EX_Succinate_e0",
 "metabolites":{
 "succ_e":-1.0
@@ -68924,7 +68924,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd11576",
+"id":"EX_metox__R_c",
 "name":"EX_L_methionine_R_oxide_e0",
 "metabolites":{
 "metox__R_e":-1.0
@@ -68944,7 +68944,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd11585",
+"id":"EX_L_alagly_c",
 "name":"EX_L_alanylglycine_e0",
 "metabolites":{
 "L_alagly_e":-1.0
@@ -68954,7 +68954,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00412",
+"id":"EX_duri_c",
 "name":"EX_Deoxyuridine_e0",
 "metabolites":{
 "duri_e":-1.0
@@ -68964,7 +68964,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd11582",
+"id":"EX_ala_L_Thr__L_c",
 "name":"EX_ala_L_Thr_L_e0",
 "metabolites":{
 "ala_L_Thr__L_e":-1.0
@@ -68974,7 +68974,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00012",
+"id":"EX_ppi_e",
 "name":"EX_PPi_e0",
 "metabolites":{
 "ppi_e":-1.0
@@ -68984,7 +68984,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd11586",
+"id":"EX_ala_L_glu__L_c",
 "name":"EX_ala_L_glu_L_e0",
 "metabolites":{
 "ala_L_glu__L_e":-1.0
@@ -68994,7 +68994,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd01030",
+"id":"EX_salcn_e",
 "name":"EX_Salicin_e0",
 "metabolites":{
 "salcn_e":-1.0
@@ -69004,7 +69004,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00129",
+"id":"EX_pro__L_c",
 "name":"EX_L_Proline_e0",
 "metabolites":{
 "pro__L_e":-1.0
@@ -69014,7 +69014,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00971",
+"id":"EX_na1_c",
 "name":"EX_Na_plus__e0",
 "metabolites":{
 "na1_e":-1.0
@@ -69044,7 +69044,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00246",
+"id":"EX_ins_e",
 "name":"EX_Inosine_e0",
 "metabolites":{
 "ins_e":-1.0
@@ -69054,7 +69054,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00276",
+"id":"EX_gam_e",
 "name":"EX_GLUM_e0",
 "metabolites":{
 "gam_e":-1.0
@@ -69064,7 +69064,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00082",
+"id":"EX_fru_c",
 "name":"EX_D_Fructose_e0",
 "metabolites":{
 "fru_e":-1.0
@@ -69074,7 +69074,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00001",
+"id":"EX_h2o_c",
 "name":"EX_H2O_e0",
 "metabolites":{
 "h2o_e":-1.0
@@ -69084,7 +69084,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00023",
+"id":"EX_glu__L_e",
 "name":"EX_L_Glutamate_e0",
 "metabolites":{
 "glu__L_e":-1.0
@@ -69094,7 +69094,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00367",
+"id":"EX_cytd_e",
 "name":"EX_Cytidine_e0",
 "metabolites":{
 "cytd_e":-1.0
@@ -69104,7 +69104,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00058",
+"id":"EX_cu2_c",
 "name":"EX_Cu2_plus__e0",
 "metabolites":{
 "cu2_e":-1.0
@@ -69114,7 +69114,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00080",
+"id":"EX_glyc3p_e",
 "name":"EX_Glycerol_3_phosphate_e0",
 "metabolites":{
 "glyc3p_e":-1.0
@@ -69124,7 +69124,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00107",
+"id":"EX_leu__L_c",
 "name":"EX_L_Leucine_e0",
 "metabolites":{
 "leu__L_e":-1.0
@@ -69134,7 +69134,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00184",
+"id":"EX_thymd_c",
 "name":"EX_Thymidine_e0",
 "metabolites":{
 "thymd_e":-1.0
@@ -69144,7 +69144,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00314",
+"id":"EX_mnl_c",
 "name":"EX_D_Mannitol_e0",
 "metabolites":{
 "mnl_e":-1.0
@@ -69154,7 +69154,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd01017",
+"id":"EX_cgly_c",
 "name":"EX_Cys_Gly_e0",
 "metabolites":{
 "cgly_e":-1.0
@@ -69164,7 +69164,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00797",
+"id":"EX_bhb_e",
 "name":"EX_R_3_Hydroxybutanoate_e0",
 "metabolites":{
 "bhb_e":-1.0
@@ -69174,7 +69174,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00013",
+"id":"EX_nh4_e",
 "name":"EX_NH3_e0",
 "metabolites":{
 "nh3_e":-1.0
@@ -69184,7 +69184,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00051",
+"id":"EX_arg__L_e",
 "name":"EX_L_Arginine_e0",
 "metabolites":{
 "arg__L_e":-1.0
@@ -69194,7 +69194,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd10515",
+"id":"EX_fe2_e",
 "name":"EX_Fe2_plus__e0",
 "metabolites":{
 "fe2_e":-1.0
@@ -69204,7 +69204,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00308",
+"id":"EX_malon_c",
 "name":"EX_Malonate_e0",
 "metabolites":{
 "malon_e":-1.0
@@ -69214,7 +69214,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00179",
+"id":"EX_malt_e",
 "name":"EX_Maltose_e0",
 "metabolites":{
 "malt_e":-1.0
@@ -69224,7 +69224,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00100",
+"id":"EX_glyc_e",
 "name":"EX_Glycerol_e0",
 "metabolites":{
 "glyc_e":-1.0
@@ -69234,7 +69234,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd11591",
+"id":"EX_gly_met__L_c",
 "name":"EX_Gly_Met_e0",
 "metabolites":{
 "gly_met__L_e":-1.0
@@ -69244,7 +69244,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00009",
+"id":"EX_pi_e",
 "name":"EX_Phosphate_e0",
 "metabolites":{
 "pi_e":-1.0
@@ -69254,7 +69254,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00060",
+"id":"EX_met__L_e",
 "name":"EX_L_Methionine_e0",
 "metabolites":{
 "met__L_e":-1.0
@@ -69264,7 +69264,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00438",
+"id":"EX_dad_2_c",
 "name":"EX_Deoxyadenosine_e0",
 "metabolites":{
 "dad_2_e":-1.0
@@ -69274,7 +69274,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00034",
+"id":"EX_zn2_c",
 "name":"EX_Zn2_plus__e0",
 "metabolites":{
 "HC02172_e":-1.0
@@ -69284,7 +69284,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00249",
+"id":"EX_uri_e",
 "name":"EX_Uridine_e0",
 "metabolites":{
 "uri_e":-1.0
@@ -69294,7 +69294,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00214",
+"id":"EX_hdca_e",
 "name":"EX_Palmitate_e0",
 "metabolites":{
 "hdca_e":-1.0
@@ -69304,7 +69304,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00119",
+"id":"EX_his__L_e",
 "name":"EX_L_Histidine_e0",
 "metabolites":{
 "his__L_e":-1.0
@@ -69314,7 +69314,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd11593",
+"id":"EX_ala_L_asp__L_c",
 "name":"EX_ala_L_asp_L_e0",
 "metabolites":{
 "ala_L_asp__L_e":-1.0
@@ -69324,7 +69324,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00654",
+"id":"EX_dcyt_e",
 "name":"EX_Deoxycytidine_e0",
 "metabolites":{
 "dcyt_e":-1.0
@@ -69334,7 +69334,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00076",
+"id":"EX_sucr_e",
 "name":"EX_Sucrose_e0",
 "metabolites":{
 "sucr_e":-1.0
@@ -69344,7 +69344,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00322",
+"id":"EX_ile__L_e",
 "name":"EX_L_Isoleucine_e0",
 "metabolites":{
 "ile__L_e":-1.0
@@ -69354,7 +69354,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd01171",
+"id":"EX_galt_e",
 "name":"EX_Dulcose_e0",
 "metabolites":{
 "galt_e":-1.0
@@ -69364,7 +69364,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00210",
+"id":"EX_taur_e",
 "name":"EX_Taurine_e0",
 "metabolites":{
 "taur_e":-1.0
@@ -69394,7 +69394,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00264",
+"id":"EX_spmd_e",
 "name":"EX_Spermidine_e0",
 "metabolites":{
 "spmd_e":-1.0
@@ -69404,7 +69404,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00054",
+"id":"EX_ser__L_e",
 "name":"EX_L_Serine_e0",
 "metabolites":{
 "ser__L_e":-1.0
@@ -69414,7 +69414,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00644",
+"id":"EX_pnto__R_c",
 "name":"EX_PAN_e0",
 "metabolites":{
 "pnto__R_e":-1.0
@@ -69424,7 +69424,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00637",
+"id":"EX_met__D_c",
 "name":"EX_D_Methionine_e0",
 "metabolites":{
 "met__D_e":-1.0
@@ -69434,7 +69434,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00041",
+"id":"EX_asp__L_e",
 "name":"EX_L_Aspartate_e0",
 "metabolites":{
 "CE1787_e":-1.0
@@ -69444,7 +69444,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00122",
+"id":"EX_acgam_e",
 "name":"EX_N_Acetyl_D_glucosamine_e0",
 "metabolites":{
 "acgam_e":-1.0
@@ -69454,7 +69454,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00035",
+"id":"EX_ala__L_e",
 "name":"EX_L_Alanine_e0",
 "metabolites":{
 "ala__L_e":-1.0
@@ -69464,7 +69464,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd15603",
+"id":"EX_gly_cys__L_e",
 "name":"EX_Gly_Cys_e0",
 "metabolites":{
 "gly_cys__L_e":-1.0
@@ -69474,7 +69474,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00039",
+"id":"EX_lys__L_e",
 "name":"EX_L_Lysine_e0",
 "metabolites":{
 "lys__L_e":-1.0
@@ -69484,7 +69484,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd03696",
+"id":"EX_arbt_e",
 "name":"EX_Ursin_e0",
 "metabolites":{
 "arbt_e":-1.0
@@ -69494,7 +69494,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00277",
+"id":"EX_dgsn_e",
 "name":"EX_Deoxyguanosine_e0",
 "metabolites":{
 "dgsn_e":-1.0
@@ -69504,7 +69504,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00118",
+"id":"EX_ptrc_e",
 "name":"EX_Putrescine_e0",
 "metabolites":{
 "ptrc_e":-1.0
@@ -69514,7 +69514,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00309",
+"id":"EX_xan_e",
 "name":"EX_XAN_e0",
 "metabolites":{
 "xan_e":-1.0
@@ -69524,7 +69524,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd11580",
+"id":"EX_gly_gln__L_e",
 "name":"EX_Gly_Gln_e0",
 "metabolites":{
 "gly_gln__L_e":-1.0
@@ -69534,7 +69534,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd01092",
+"id":"EX_alltn_e",
 "name":"EX_Allantoin_e0",
 "metabolites":{
 "alltn_e":-1.0
@@ -69544,7 +69544,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd03343",
+"id":"EX_pppn_e",
 "name":"EX_Phenylpropanoate_e0",
 "metabolites":{
 "pppn_e":-1.0
@@ -69554,7 +69554,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd03279",
+"id":"EX_din_c",
 "name":"EX_Deoxyinosine_e0",
 "metabolites":{
 "din_e":-1.0
@@ -69574,7 +69574,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd01262",
+"id":"EX_malttr_c",
 "name":"EX_Amylotriose_e0",
 "metabolites":{
 "malttr_e":-1.0
@@ -69584,7 +69584,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00137",
+"id":"EX_cit_e",
 "name":"EX_Citrate_e0",
 "metabolites":{
 "cit_e":-1.0
@@ -69594,7 +69594,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd10516",
+"id":"EX_fe3_e",
 "name":"EX_fe3_e0",
 "metabolites":{
 "fe3_e":-1.0
@@ -69604,7 +69604,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00588",
+"id":"EX_sbt__D_e",
 "name":"EX_Sorbitol_e0",
 "metabolites":{
 "sbt__D_e":-1.0
@@ -69614,7 +69614,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00423",
+"id":"EX_cbl2_c",
 "name":"EX_Vitamin_B12r_e0",
 "metabolites":{
 "cbl2_e":-1.0
@@ -69624,7 +69624,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00117",
+"id":"EX_ala__D_e",
 "name":"EX_D_Alanine_e0",
 "metabolites":{
 "ala__D_e":-1.0
@@ -69634,7 +69634,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00254",
+"id":"EX_mg2_c",
 "name":"EX_Mg_e0",
 "metabolites":{
 "mg2_e":-1.0
@@ -69644,7 +69644,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00138",
+"id":"EX_man_e",
 "name":"EX_D_Mannose_e0",
 "metabolites":{
 "man_e":-1.0
@@ -69664,7 +69664,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd01242",
+"id":"EX_drib_c",
 "name":"EX_Thyminose_e0",
 "metabolites":{
 "drib_e":-1.0
@@ -69674,7 +69674,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00159",
+"id":"EX_lac__L_e",
 "name":"EX_L_Lactate_e0",
 "metabolites":{
 "lac__L_e":-1.0
@@ -69684,7 +69684,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00540",
+"id":"EX_glyb_e",
 "name":"EX_BET_e0",
 "metabolites":{
 "glyb_e":-1.0
@@ -69694,7 +69694,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00065",
+"id":"EX_trp__L_e",
 "name":"EX_L_Tryptophan_e0",
 "metabolites":{
 "trp__L_e":-1.0
@@ -69704,7 +69704,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00047",
+"id":"EX_for_e",
 "name":"EX_Formate_e0",
 "metabolites":{
 "for_e":-1.0
@@ -69724,7 +69724,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00048",
+"id":"EX_so4_e",
 "name":"EX_Sulfate_e0",
 "metabolites":{
 "so4_e":-1.0
@@ -69744,7 +69744,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00149",
+"id":"EX_cobalt2_e",
 "name":"EX_Co2_plus__e0",
 "metabolites":{
 "cobalt2_e":-1.0
@@ -69764,7 +69764,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd15352",
+"id":"EX_2dmmq8_e",
 "name":"EX_2_Demethylmenaquinone_8_e0",
 "metabolites":{
 "2dmmq8_e":-1.0
@@ -69774,7 +69774,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd01914",
+"id":"EX_metsox_S__L_e",
 "name":"EX_L_Methionine_S_oxide_e0",
 "metabolites":{
 "metox_e":-1.0
@@ -69784,7 +69784,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00531",
+"id":"EX_hg2_e",
 "name":"EX_Hg2_plus__e0",
 "metabolites":{
 "hg2_e":-1.0
@@ -69804,7 +69804,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00162",
+"id":"EX_etha_e",
 "name":"EX_Aminoethanol_e0",
 "metabolites":{
 "etha_e":-1.0
@@ -69814,7 +69814,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd11589",
+"id":"EX_gly_asp__L_e",
 "name":"EX_gly_asp_L_e0",
 "metabolites":{
 "gly_asp__L_e":-1.0
@@ -69824,7 +69824,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00027",
+"id":"EX_glc__D_e",
 "name":"EX_D_Glucose_e0",
 "metabolites":{
 "glc__D_e":-1.0
@@ -69834,7 +69834,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd03725",
+"id":"EX_fe3dcit_c",
 "name":"EX_FeIIIdicitrate_e0",
 "metabolites":{
 "fe3dcit_e":-1.0
@@ -69844,7 +69844,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00209",
+"id":"EX_no3_e",
 "name":"EX_Nitrate_e0",
 "metabolites":{
 "no3_e":-1.0
@@ -69854,7 +69854,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00794",
+"id":"EX_tre_e",
 "name":"EX_TRHL_e0",
 "metabolites":{
 "tre_e":-1.0
@@ -69864,7 +69864,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00105",
+"id":"EX_rib__D_e",
 "name":"EX_D_Ribose_e0",
 "metabolites":{
 "rib__D_e":-1.0
@@ -69874,7 +69874,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00226",
+"id":"EX_hxan_e",
 "name":"EX_HYXN_e0",
 "metabolites":{
 "hxan_e":-1.0
@@ -69884,7 +69884,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd11588",
+"id":"EX_gly_pro__L_e",
 "name":"EX_gly_pro_L_e0",
 "metabolites":{
 "gly_pro__L_e":-1.0
@@ -69894,7 +69894,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd01329",
+"id":"EX_malthx_e",
 "name":"EX_Maltohexaose_e0",
 "metabolites":{
 "malthx_e":-1.0
@@ -69914,7 +69914,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd01015",
+"id":"EX_cynt_e",
 "name":"EX_Cyanate_e0",
 "metabolites":{
 "cynt_e":-1.0
@@ -69924,7 +69924,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00069",
+"id":"EX_tyr__L_e",
 "name":"EX_L_Tyrosine_e0",
 "metabolites":{
 "tyr__L_e":-1.0
@@ -69934,7 +69934,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00205",
+"id":"EX_k_e",
 "name":"EX_K_plus__e0",
 "metabolites":{
 "k_e":-1.0
@@ -69944,7 +69944,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00007",
+"id":"EX_o2_e",
 "name":"EX_O2_e0",
 "metabolites":{
 "o2_e":-1.0
@@ -69964,7 +69964,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00098",
+"id":"EX_chol_e",
 "name":"EX_Choline_e0",
 "metabolites":{
 "chol_e":-1.0
@@ -69974,7 +69974,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd11592",
+"id":"EX_gly_glu__L_e",
 "name":"EX_gly_glu_L_e0",
 "metabolites":{
 "gly_glu__L_e":-1.0
@@ -69984,7 +69984,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00156",
+"id":"EX_val__L_e",
 "name":"EX_L_Valine_e0",
 "metabolites":{
 "val__L_e":-1.0
@@ -69994,7 +69994,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd11587",
+"id":"EX_ala_L_gln__L_e",
 "name":"EX_Ala_Gln_e0",
 "metabolites":{
 "ala_L_gln__L_e":-1.0
@@ -70004,7 +70004,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00092",
+"id":"EX_ura_e",
 "name":"EX_Uracil_e0",
 "metabolites":{
 "ura_e":-1.0
@@ -70014,7 +70014,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd11590",
+"id":"EX_met_L_ala__L_e",
 "name":"EX_met_L_ala_L_e0",
 "metabolites":{
 "met_L_ala__L_e":-1.0
@@ -70024,7 +70024,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd11581",
+"id":"EX_gly_asn__L_c",
 "name":"EX_gly_asn_L_e0",
 "metabolites":{
 "gly_asn__L_e":-1.0
@@ -70034,7 +70034,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd15499",
+"id":"EX_mql8_e",
 "name":"EX_Menaquinol_8_e0",
 "metabolites":{
 "mql8_e":-1.0
@@ -70044,7 +70044,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd15500",
+"id":"EX_mqn8_e",
 "name":"EX_Menaquinone_8_e0",
 "metabolites":{
 "mqn8_e":-1.0
@@ -70054,7 +70054,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd01080",
+"id":"EX_ocdca_e",
 "name":"EX_ocdca_e0",
 "metabolites":{
 "ocdca_e":-1.0
@@ -70074,7 +70074,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00305",
+"id":"EX_thm_e",
 "name":"EX_Thiamin_e0",
 "metabolites":{
 "thm_e":-1.0
@@ -70084,7 +70084,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00121",
+"id":"EX_inost_e",
 "name":"EX_L_Inositol_e0",
 "metabolites":{
 "inost_e":-1.0
@@ -70094,7 +70094,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00011",
+"id":"EX_co2_e",
 "name":"EX_CO2_e0",
 "metabolites":{
 "co2_e":-1.0
@@ -70114,7 +70114,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00099",
+"id":"EX_cl_e",
 "name":"EX_Cl__e0",
 "metabolites":{
 "cl_e":-1.0
@@ -70124,7 +70124,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00063",
+"id":"EX_ca2_e",
 "name":"EX_Ca2_plus__e0",
 "metabolites":{
 "ca2_e":-1.0
@@ -70134,7 +70134,7 @@
 "gene_reaction_rule":""
 },
 {
-"id":"EX_cpd00030",
+"id":"EX_mn2_e",
 "name":"EX_Mn2_plus__e0",
 "metabolites":{
 "mn2_e":-1.0
