@@ -2,14 +2,16 @@ version: "0.1"
 medium:
   path: "media/"
   definitions:
-    m9_glucose:
-      filename: "minimal_medium_lizas.xls"
+    m9_minimal_medium:
+      filename: "m9_minimal_medium.csv"
       label: "M9 minimal medium without carbon source"
+essentiality:
+  path: "essentiality/"
 growth:
   path: "growth/"
   experiments:
-    my_growth_experiment:
-      filename: "substrate_lizas.xls"
-      medium: "m9_glucose"
+    m9_carbon_sources:
+      filename: "carbon_sources.csv"
+      medium: "m9_minimal_medium"
       objective: "bio1"
-      label: "Growth in M9 minimal medium + glucose and other subtrates"
+      label: "Growth in M9 minimal medium and various C-sources"
