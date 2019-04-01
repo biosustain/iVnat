@@ -29,7 +29,7 @@ fi
 output="index.html"
 git checkout "${deployment}"
 echo "Generating updated history report '${output}'."
-memote report history --filename="${output}"
+memote report history --filename="${output}" --location
 
 # Add, commit and push the files.
 git add "${output}"
