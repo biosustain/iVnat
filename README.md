@@ -1,8 +1,11 @@
+[![memote tested](https://img.shields.io/badge/memote-tested-blue.svg?style=plastic)](https://biosustain.github.io/iVnat)
+
 # iVnat: A genome-scale metabolic model of _Vibrio natriegens_
 
 * Brief Model Description:
 
 This repository contains a draft metabolic model of _Vibrio natriegens_.
+For the most recent, comprehensive overview of this model's preformance check out [the memote snapshot report](snapshot.html)
 
 * Model KeyWords:
 
